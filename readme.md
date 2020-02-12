@@ -10,4 +10,7 @@ git commit -am "Added readme.md"
 git log readme.md
 git log -p readme.md
 git checkout <hash> <filename>
-
+git checkout <new version name>
+git branch: shows all the branches and which branch you are on
+git branch -D <branch name>: deletes the branch version
+git merge <branch name>
