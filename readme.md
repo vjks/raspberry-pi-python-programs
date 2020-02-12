@@ -14,3 +14,4 @@ git checkout <new version name>
 git branch: shows all the branches and which branch you are on
 git branch -D <branch name>: deletes the branch version
 git merge <branch name>
+git push -u origin master
