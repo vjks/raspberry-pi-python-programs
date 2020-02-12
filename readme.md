@@ -9,3 +9,5 @@ git status
 git commit -am "Added readme.md"
 git log readme.md
 git log -p readme.md
+git checkout <hash> <filename>
+
