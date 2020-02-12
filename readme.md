@@ -1,5 +1,5 @@
 # this is the test file 
-It's part of the process to install, configure and run git on the Raspberry Pi
+It's part of the process to install, configure and run git on my Raspberry Pi
 
 Git commands:
 git init <br/>
