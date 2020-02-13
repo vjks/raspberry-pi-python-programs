@@ -1,7 +1,7 @@
-# this is the test file 
-It's part of the process to install, configure and run git on my Raspberry Pi
+# This folder contains all the python programs done for practice 
+Following commands were used in the process of installing, configuring and running git on my Raspberry Pi
 
-Git commands:
+Git commands:<br/>
 git init <br/>
 git add <filename> <br/>
 git add --all <br/>
