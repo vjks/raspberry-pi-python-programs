@@ -1,9 +1,10 @@
 number = int(input("Enter number:"))
+difference = abs(number - 1000)
 
-if number >= 100 and number <= 1000:
-    print("Number is less than 1000")
-elif number >= 1000 and number <= 2000:
-    print("Number is > 1000 and < 2000")
+if (abs(number - 1000) <= 100):
+    print("Number is within 100 of 1000")
+elif (abs(number - 2000) <= 100):
+    print("Number is within 100 of 2000")
 else:
-    print("Number < 100 or < 2000")
+    print("Number is neither within 100 of either 1000 or 2000")
     
