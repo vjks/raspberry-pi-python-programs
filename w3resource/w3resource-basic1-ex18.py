@@ -9,4 +9,3 @@ def sumofthree(number1, number2, number3):
     return sum
     
 print(sumofthree(number1, number2, number3))
-print(sumofthree(number1, number2, number3))
