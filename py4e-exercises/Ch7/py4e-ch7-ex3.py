@@ -14,4 +14,4 @@ for line in fhandle:
     if line.startswith('Subject:'):
         #print(line.rstrip())
         count = count + 1
-print( 'There were ' + str(count),'subject lines in ' + fname )
+print( 'There were ' + str(count), 'subject lines in ' + fname )
