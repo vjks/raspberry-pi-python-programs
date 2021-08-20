@@ -15,7 +15,3 @@ git branch: shows all the branches and which branch you are on <br/>
 git branch -D <branch name>: deletes the branch version <br/>
 git merge <branch name> <br/>
 git push -u origin master <br/>
-
-
-Token:
-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

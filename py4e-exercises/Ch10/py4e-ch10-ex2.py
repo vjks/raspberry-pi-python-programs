@@ -10,17 +10,18 @@ for line in fhand:
     line = line.rstrip()
     words = line.split()
     if len( words ) > 0 and words[ 0 ] == 'From':
-        if words[ 1 ] not in counts:
-            counts[ words[ 1 ] ] = 1
+        time = words[ 5 ].split(":") # The 5th word contains the time
+        if time[ 0 ] not in counts: # The characters before the first color contain the hour
+            counts[ time[ 0 ] ] = 1
         else:
-            counts[ words[ 1 ] ] += 1
+            counts[ time[ 0 ] ] += 1
 
 # Sort the dictionary by value
 lst = list()
 for key, val in list(counts.items()):
-    lst.append((val, key))
+    lst.append((key, val))
 
-lst.sort(reverse=True)
+lst.sort(reverse=False)
 
-for key, val in lst[:1]:
-    print(val, key)
+for key, val in lst[:]:
+    print(key, val)
