@@ -1,0 +1,1813 @@
+[Command: python -u C:\Users\vj_ku\Documents\pythonFiles\bjj-heroes-scraper.py]
+['/?p=8141', '/?p=9246', '/?p=8494', '/?p=390', '/?p=3083', '/?p=8814', '/?p=8131', '/?p=1133', '/?p=7478', '/?p=6339', '/?p=8968', '/?p=9541', '/?p=699', '/?p=1116', '/?p=909', '/?p=2189', '/?p=289', '/?p=2583', '/?p=12235', '/?p=696', '/?p=2611', '/?p=9876', '/?p=7660', '/?p=11746', '/?p=1131', '/?p=1757', '/?p=1567', '/?p=9166', '/?p=9312', '/?p=449', '/?p=474', '/?p=727', '/?p=9793', '/?p=9407', '/?p=666', '/?p=311', '/?p=1671', '/?p=84', '/?p=1517', '/?p=8525', '/?p=891', '/?p=9377', '/?p=8884', '/?p=10004', '/?p=826', '/?p=2052', '/?p=1553', '/?p=9058', '/?p=7012', '/?p=12064', '/?p=8301', '/?p=486', '/?p=1391', '/?p=8888', '/?p=6979', '/?p=2357', '/?p=276', '/?p=11685', '/?p=249', '/?p=1101', '/?p=9615', '/?p=1716', '/?p=144', '/?p=11646', '/?p=7747', '/?p=1640', '/?p=78', '/?p=11384', '/?p=1414', '/?p=314', '/?p=8519', '/?p=11808', '/?p=11878', '/?p=8293', '/?p=10638', '/?p=10764', '/?p=540', '/?p=1104', '/?p=957', '/?p=1236', '/?p=1536', '/?p=911', '/?p=9130', '/?p=1865', '/?p=12', '/?p=387', '/?p=584', '/?p=9931', '/?p=260', '/?p=11703', '/?p=381', '/?p=9401', '/?p=1167', '/?p=188', '/?p=2606', '/?p=12203', '/?p=1023', '/?p=1119', '/?p=1998', '/?p=425', '/?p=1433', '/?p=1158', '/?p=471', '/?p=898', '/?p=9385', '/?p=9048', '/?p=10862', '/?p=7535', '/?p=253', '/?p=2358', '/?p=422', '/?p=8298', '/?p=9640', '/?p=11354', '/?p=1659', '/?p=222', '/?p=7568', '/?p=637', '/?p=684', '/?p=1707', '/?p=174', '/?p=10176', '/?p=283', '/?p=868', '/?p=12069', '/?p=3117', '/?p=7672', '/?p=9217', '/?p=10964', '/?p=582', '/?p=8624', '/?p=2160', '/?p=2460', '/?p=36', '/?p=297', '/?p=1400', '/?p=1594', '/?p=745', '/?p=9611', '/?p=396', '/?p=963', '/?p=22', '/?p=1000', '/?p=829', '/?p=1223', '/?p=8562', '/?p=10596', '/?p=7657', '/?p=428', '/?p=929', '/?p=2512', '/?p=9845', '/?p=7652', '/?p=877', '/?p=9545', '/?p=2402', '/?p=7808', '/?p=7821', '/?p=1155', '/?p=1523', '/?p=7928', '/?p=410', '/?p=2100', '/?p=7749', '/?p=489', '/?p=443', '/?p=8870', '/?p=7976', '/?p=9150', '/?p=1933', '/?p=8346', '/?p=3185', '/?p=2062', '/?p=1108', '/?p=2956', '/?p=159', '/?p=3384', '/?p=5781', '/?p=9152', '/?p=11949', '/?p=708', '/?p=1019', '/?p=1281', '/?p=11919', '/?p=11919', '/?p=453', '/?p=994', '/?p=1145', '/?p=7997', '/?p=9325', '/?p=8036', '/?p=10953', '/?p=8116', '/?p=816', '/?p=12275', '/?p=1386', '/?p=7463', '/?p=1923', '/?p=9668', '/?p=9037', '/?p=9700', '/?p=1650', '/?p=11262', '/?p=4965', '/?p=7321', '/?p=1369', '/?p=1820', '/?p=112', '/?p=244', '/?p=1550', '/?p=1498', '/?p=778', '/?p=2439', '/?p=9157', '/?p=9864', '/?p=7831', '/?p=10840', '/?p=11963', '/?p=8334', '/?p=5258', '/?p=1003', '/?p=11823', '/?p=2226', '/?p=9934', '/?p=9321', '/?p=5229', '/?p=8128', '/?p=10000', '/?p=1680', '/?p=9941', '/?p=10835', '/?p=10835', '/?p=7405', '/?p=199', '/?p=1152', '/?p=9901', '/?p=3508', '/?p=4874', '/?p=9483', '/?p=1520', '/?p=2324', '/?p=562', '/?p=8602', '/?p=11357', '/?p=9587', '/?p=3371', '/?p=7442', '/?p=5238', '/?p=10380', '/?p=10318', '/?p=7606', '/?p=11182', '/?p=7639', '/?p=11762', '/?p=10290', '/?p=11093', '/?p=11669', '/?p=9465', '/?p=10623', '/?p=11693', '/?p=9868', '/?p=1229', '/?p=8605', '/?p=8215', '/?p=12120', '/?p=11223', '/?p=1367', '/?p=970', '/?p=1713', '/?p=9725', '/?p=10252', '/?p=1665', '/?p=3402', '/?p=4115', '/?p=2266', '/?p=322', '/?p=658', '/?p=1303', '/?p=2068', '/?p=11497', '/?p=7878', '/?p=1886', '/?p=9370', '/?p=9127', '/?p=573', '/?p=7675', '/?p=9404', '/?p=2056', '/?p=7537', '/?p=1268', '/?p=4542', '/?p=465', '/?p=2416', '/?p=9309', '/?p=5067', '/?p=6209', '/?p=6029', '/?p=8514', '/?p=8686', '/?p=9760', '/?p=437', '/?p=1403', '/?p=690', '/?p=1855', '/?p=690', '/?p=1411', '/?p=1916', '/?p=86', '/?p=2304', '/?p=9859', '/?p=1044', '/?p=1495', '/?p=11456', '/?p=11039', '/?p=714', '/?p=714', '/?p=2040', '/?p=1081', '/?p=2091', '/?p=819', '/?p=9250', '/?p=6071', '/?p=11766', '/?p=10232', '/?p=10430', '/?p=1017', '/?p=10817', '/?p=8560', '/?p=9746', '/?p=7698', '/?p=11917', '/?p=2401', '/?p=5061', '/?p=607', '/?p=1563', '/?p=1586', '/?p=9051', '/?p=10091', '/?p=10153', '/?p=11257', '/?p=9241', '/?p=595', '/?p=8991', '/?p=1696', '/?p=5649', '/?p=1408', '/?p=8583', '/?p=8532', '/?p=528', '/?p=3380', '/?p=1329', '/?p=3479', '/?p=11797', '/?p=446', '/?p=7872', '/?p=6550', '/?p=11783', '/?p=1322', '/?p=1733', '/?p=9361', '/?p=415', '/?p=9635', '/?p=1388', '/?p=8195', '/?p=10199', '/?p=108', '/?p=620', '/?p=11543', '/?p=10932', '/?p=8357', '/?p=4177', '/?p=5726', '/?p=9338', '/?p=11359', '/?p=10926', '/?p=258', '/?p=11228', '/?p=44', '/?p=655', '/?p=3129', '/?p=7704', '/?p=671', '/?p=9554', '/?p=371', '/?p=8038', '/?p=12241', '/?p=184', '/?p=7399', '/?p=973', '/?p=8138', '/?p=1174', '/?p=7332', '/?p=9117', '/?p=3279', '/?p=1750', '/?p=9488', '/?p=1655', '/?p=12225', '/?p=2013', '/?p=680', '/?p=8477', '/?p=6631', '/?p=11145', '/?p=8647', '/?p=7743', '/?p=11929', '/?p=10408', '/?p=1542', '/?p=10295', '/?p=6379', '/?p=7552', '/?p=9606', '/?p=2335', '/?p=1874', '/?p=11939', '/?p=3200', '/?p=11208', '/?p=8168', '/?p=1813', '/?p=8756', '/?p=1014', '/?p=10240', '/?p=10986', '/?p=4107', '/?p=10759', '/?p=10506', '/?p=1214', '/?p=1031', '/?p=1526', '/?p=1768', '/?p=1827', '/?p=88', '/?p=235', '/?p=610', '/?p=364', '/?p=8223', '/?p=1423', '/?p=9440', '/?p=12259', '/?p=11690', '/?p=7608', '/?p=11314', '/?p=9202', '/?p=7817', '/?p=9096', '/?p=644', '/?p=11960', '/?p=12178', '/?p=1500', '/?p=9074', '/?p=2997', '/?p=2403', '/?p=8351', '/?p=952', '/?p=521', '/?p=1719', '/?p=3366', '/?p=11114', '/?p=566', '/?p=8369', '/?p=11894', '/?p=8938', '/?p=720', '/?p=623', '/?p=6836', '/?p=3286', '/?p=11195', '/?p=1569', '/?p=3220', '/?p=10531', '/?p=705', '/?p=12095', '/?p=7664', '/?p=10588', '/?p=11248', '/?p=10085', '/?p=8767', '/?p=9367', '/?p=975', '/?p=10293', '/?p=11084', '/?p=10103', '/?p=12247', '/?p=754', '/?p=7693', '/?p=7931', '/?p=2241', '/?p=1548', '/?p=3357', '/?p=232', '/?p=1633', '/?p=650', '/?p=2095', '/?p=7096', '/?p=11568', '/?p=3313', '/?p=8555', '/?p=7757', '/?p=7006', '/?p=203', '/?p=4507', '/?p=4411', '/?p=10370', '/?p=11401', '/?p=9711', '/?p=1377', '/?p=1398', '/?p=9114', '/?p=1377', '/?p=967', '/?p=11465', '/?p=3009', '/?p=1068', '/?p=2504', '/?p=12005', '/?p=11725', '/?p=8173', '/?p=8974', '/?p=10885', '/?p=9031', '/?p=12115', '/?p=9758', '/?p=12010', '/?p=11049', '/?p=1919', '/?p=674', '/?p=8981', '/?p=8893', '/?p=788', '/?p=901', '/?p=2475', '/?p=10705', '/?p=8399', '/?p=8682', '/?p=9477', '/?p=9938', '/?p=1041', '/?p=11071', '/?p=1840', '/?p=1188', '/?p=1730', '/?p=1799', '/?p=1662', '/?p=12243', '/?p=11132', '/?p=9014', '/?p=7981', '/?p=9044', '/?p=7082', '/?p=10780', '/?p=1624', '/?p=935', '/?p=3443', '/?p=9067', '/?p=886', '/?p=1272', '/?p=10339', '/?p=8231', '/?p=292', '/?p=10352', '/?p=419', '/?p=903', '/?p=1307', '/?p=512', '/?p=10741', '/?p=5078', '/?p=1419', '/?p=10669', '/?p=11658', '/?p=358', '/?p=5660', '/?p=5655', '/?p=6043', '/?p=875', '/?p=12267', '/?p=8516', '/?p=11812', '/?p=11512', '/?p=11701', '/?p=1263', '/?p=809', '/?p=3245', '/?p=1395', '/?p=1675', '/?p=10403', '/?p=1722', '/?p=2560', '/?p=2443', '/?p=693', '/?p=1426', '/?p=2404', '/?p=3122', '/?p=11872', '/?p=5263', '/?p=2627', '/?p=2444', '/?p=10895', '/?p=10155', '/?p=7543', '/?p=8112', '/?p=5423', '/?p=9230', '/?p=9002', '/?p=10698', '/?p=8800', '/?p=7047', '/?p=10658', '/?p=10909', '/?p=8729', '/?p=2322', '/?p=1382', '/?p=570', '/?p=2985', '/?p=739', '/?p=8361', '/?p=16', '/?p=10644', '/?p=10405', '/?p=1090', '/?p=9706', '/?p=8337', '/?p=1253', '/?p=205', '/?p=943', '/?p=4163', '/?p=9', '/?p=3099', '/?p=4135', '/?p=687', '/?p=3090', '/?p=492', '/?p=405', '/?p=1218', '/?p=1161', '/?p=1182', '/?p=1124', '/?p=617', '/?p=1848', '/?p=2385', '/?p=9573', '/?p=6577', '/?p=5702', '/?p=4789', '/?p=8290', '/?p=2290', '/?p=984', '/?p=1619', '/?p=1785', '/?p=11187', '/?p=10130', '/?p=12233', '/?p=12201', '/?p=8759', '/?p=1810', '/?p=3546', '/?p=790', '/?p=1226', '/?p=2111', '/?p=1774', '/?p=367', '/?p=7645', '/?p=11789', '/?p=10509', '/?p=11874', '/?p=1858', '/?p=10094', '/?p=1185', '/?p=931', '/?p=8996', '/?p=960', '/?p=9106', '/?p=11926', '/?p=8218', '/?p=9271', '/?p=8308', '/?p=8714', '/?p=872', '/?p=11620', '/?p=10088', '/?p=10451', '/?p=11423', '/?p=12122', '/?p=122', '/?p=8427', '/?p=9253', '/?p=1747', '/?p=823', '/?p=1583', '/?p=7917', '/?p=2231', '/?p=1882', '/?p=8444', '/?p=1005', '/?p=2206', '/?p=7903', '/?p=3416', '/?p=9486', '/?p=627', '/?p=484', '/?p=702', '/?p=11245', '/?p=11986', '/?p=9227', '/?p=10216', '/?p=8081', '/?p=2602', '/?p=2247', '/?p=7914', '/?p=7507', '/?p=2297', '/?p=9823', '/?p=12110', '/?p=12102', '/?p=7922', '/?p=11735', '/?p=10468', '/?p=1604', '/?p=8585', '/?p=9502', '/?p=10172', '/?p=8278', '/?p=579', '/?p=11340', '/?p=2216', '/?p=11615', '/?p=256', '/?p=11707', '/?p=831', '/?p=1071', '/?p=2107', '/?p=2452', '/?p=524', '/?p=527', '/?p=1405', '/?p=532', '/?p=1259', '/?p=8658', '/?p=11015', '/?p=8069', '/?p=919', '/?p=938', '/?p=9717', '/?p=9646', '/?p=9344', '/?p=1870', '/?p=1743', '/?p=3016', '/?p=10220', '/?p=2999', '/?p=11862', '/?p=12277', '/?p=10263', '/?p=8305', '/?p=9741', '/?p=1980', '/?p=11991', '/?p=7760', '/?p=1087', '/?p=8448', '/?p=11027', '/?p=1034', '/?p=10928', '/?p=11044', '/?p=1050', '/?p=1316', '/?p=9959', '/?p=7847', '/?p=10399', '/?p=8241', '/?p=921', '/?p=4747', '/?p=2453', '/?p=1753', '/?p=1577', '/?p=6599', '/?p=179', '/?p=194', '/?p=460', '/?p=12048', '/?p=576', '/?p=10174', '/?p=8634', '/?p=11656', '/?p=1781', '/?p=8407', '/?p=640', '/?p=177', '/?p=813', '/?p=7539', '/?p=548', '/?p=991', '/?p=1545', '/?p=8213', '/?p=11534', '/?p=1627', '/?p=1149', '/?p=1957', '/?p=1778', '/?p=8779', '/?p=1372', '/?p=2235', '/?p=548', '/?p=588', '/?p=52', '/?p=2003', '/?p=331', '/?p=278', '/?p=93', '/?p=1325', '/?p=361', '/?p=2340', '/?p=1534', '/?p=8202', '/?p=591', '/?p=8409', '/?p=630', '/?p=338', '/?p=9094', '/?p=10357', '/?p=806', '/?p=67', '/?p=9559', '/?p=11064', '/?p=1817', '/?p=5761', '/?p=1488', '/?p=12254', '/?p=378', '/?p=926', '/?p=224', '/?p=535', '/?p=553', '/?p=601', '/?p=10880', '/?p=2529', '/?p=550', '/?p=1824', '/?p=384', '/?p=1204', '/?p=3394', '/?p=11281', '/?p=195', '/?p=3226', '/?p=1065', '/?p=247', '/?p=2355', '/?p=2048', '/?p=1207', '/?p=8696', '/?p=543', '/?p=3206', '/?p=631', '/?p=1895', '/?p=10579', '/?p=559', '/?p=647', '/?p=9720', '/?p=1440', '/?p=8762', '/?p=10321', '/?p=12251', '/?p=1297', '/?p=505', '/?p=1942', '/?p=214', '/?p=8261', '/?p=1445', '/?p=27', '/?p=70', '/?p=355', '/?p=7579', '/?p=320', '/?p=10162', '/?p=117', '/?p=11499', '/?p=9261', '/?p=431', '/?p=743', '/?p=515', '/?p=12080', '/?p=147', '/?p=8100', '/?p=781', '/?p=725', '/?p=2378', '/?p=1232', '/?p=1644', '/?p=2252', '/?p=11271', '/?p=1710', '/?p=8192', '/?p=1436', '/?p=1761', '/?p=11510', '/?p=1904', '/?p=11111', '/?p=481', '/?p=9515', '/?p=7695', '/?p=12215', '/?p=7768', '/?p=7686', '/?p=7582', '/?p=9697', '/?p=3505', '/?p=138', '/?p=1312', '/?p=677', '/?p=9637', '/?p=895', '/?p=4268', '/?p=8528', '/?p=1301', '/?p=3186', '/?p=793', '/?p=718', '/?p=9064', '/?p=1508', '/?p=1319', '/?p=9893', '/?p=1631', '/?p=11454', '/?p=11471', '/?p=11697', '/?p=9762', '/?p=1430', '/?p=3607', '/?p=11975', '/?p=1290', '/?p=477', '/?p=8718', '/?p=10099', '/?p=10100', '/?p=1178', '/?p=11338', '/?p=8819', '/?p=537', '/?p=2181', '/?p=1727', '/?p=8632', '/?p=1555', '/?p=2434', '/?p=1055', '/?p=7865', '/?p=4145', '/?p=8866', '/?p=8874', '/?p=12057', '/?p=3458', '/?p=8105', '/?p=1994', '/?p=10903', '/?p=12003', '/?p=1491', '/?p=8394', '/?p=10501', '/?p=1851', '/?p=9083', '/?p=11909', '/?p=2073', '/?p=10210', '/?p=7732', '/?p=1945', '/?p=1617', '/?p=10159', '/?p=3110', '/?p=11754', '/?p=8090', '/?p=730', '/?p=1275', '/?p=9180', '/?p=374', '/?p=733', '/?p=1600', '/?p=9173', '/?p=9956', '/?p=4235', '/?p=81', '/?p=2035', '/?p=1986', '/?p=272', '/?p=2175', '/?p=11709', '/?p=25', '/?p=1097', '/?p=11572', '/?p=508', '/?p=11632', '/?p=1891', '/?p=8842', '/?p=613', '/?p=634', '/?p=2517', '/?p=11559', '/?p=11771', '/?p=11794', '/?p=11293', '/?p=8119', '/?p=8783', '/?p=5347', '/?p=12055', '/?p=10897', '/?p=9121', '/?p=8536', '/?p=996', '/?p=3348', '/?p=11212', '/?p=1740', '/?p=1122', '/?p=3569', '/?p=12227', '/?p=1137', '/?p=4230', '/?p=4248', '/?p=4310', '/?p=4317', '/?p=4328', '/?p=4334', '/?p=4381', '/?p=4420', '/?p=4415', '/?p=4437', '/?p=4430', '/?p=4460', '/?p=4465', '/?p=4481', '/?p=4485', '/?p=4655', '/?p=4641', '/?p=4521', '/?p=4687', '/?p=4676', '/?p=4943', '/?p=4912', '/?p=7856', '/?p=4687', '/?p=4706', '/?p=4717', '/?p=4740', '/?p=4776', '/?p=4859', '/?p=4864', '/?p=4851', '/?p=4877', '/?p=4838', '/?p=4794', '/?p=4912', '/?p=4943', '/?p=4960', '/?p=4993', '/?p=5000', '/?p=4996', '/?p=5016', '/?p=5020', '/?p=5114', '/?p=5135', '/?p=5157', '/?p=5162', '/?p=5206', '/?p=5223', '/?p=5320', '/?p=5324', '/?p=5365', '/?p=5391', '/?p=5410', '/?p=5417', '/?p=12084', '/?p=5414', '/?p=5447', '/?p=5453', '/?p=5473', '/?p=5509', '/?p=5523', '/?p=5636', '/?p=5617', '/?p=5609', '/?p=5592', '/?p=5578', '/?p=5549', '/?p=5751', '/?p=5747', '/?p=5715', '/?p=5634', '/?p=5756', '/?p=5909', '/?p=5926', '/?p=5930', '/?p=5861', '/?p=5842', '/?p=5789', '/?p=5793', '/?p=5785', '/?p=5814', '/?p=5820', '/?p=5854', '/?p=5858', '/?p=5869', '/?p=5873', '/?p=5883', '/?p=5900', '/?p=5992', '/?p=5998', '/?p=6006', '/?p=6002', '/?p=6054', '/?p=6033', '/?p=6041', '/?p=6046', '/?p=6060', '/?p=6064', '/?p=6081', '/?p=6084', '/?p=6095', '/?p=6103', '/?p=6149', '/?p=6151', '/?p=6156', '/?p=6158', '/?p=6167', '/?p=6170', '/?p=6176', '/?p=6186', '/?p=6196', '/?p=6203', '/?p=6227', '/?p=6236', '/?p=6246', '/?p=6253', '/?p=6258', '/?p=6276', '/?p=6284', '/?p=6286', '/?p=6301', '/?p=6311', '/?p=6337', '/?p=6328', '/?p=6324', '/?p=6419', '/?p=6403', '/?p=6395', '/?p=6375', '/?p=6366', '/?p=11889', '/?p=6368', '/?p=6359', '/?p=6354', '/?p=6351', '/?p=6348', '/?p=6342', '/?p=6432', '/?p=6447', '/?p=6454', '/?p=6481', '/?p=6483', '/?p=6493', '/?p=6507', '/?p=6518', '/?p=6525', '/?p=6528', '/?p=6535', '/?p=6531', '/?p=6503', '/?p=6539', '/?p=6545', '/?p=6563', '/?p=6592', '/?p=6596', '/?p=6618', '/?p=6641', '/?p=6674', '/?p=6683', '/?p=6686', '/?p=6748', '/?p=6756', '/?p=6761', '/?p=6765', '/?p=6768', '/?p=6801', '/?p=6805', '/?p=6825', '/?p=6833', '/?p=6829', '/?p=6976', '/?p=7000', '/?p=7002', '/?p=7009', '/?p=7075', '/?p=7077', '/?p=7079', '/?p=7103', '/?p=7106', '/?p=7111', '/?p=7114', '/?p=7123', '/?p=7156', '/?p=6792', '/?p=7201', '/?p=7171', '/?p=7143', '/?p=7140', '/?p=7256', '/?p=7247', '/?p=7231', '/?p=7224', '/?p=7218', '/?p=7282', '/?p=7289', '/?p=7329', '/?p=7352', '/?p=7376', '/?p=7396', '/?p=7473', '/?p=7476', '/?p=7502', '/?p=7505', '/?p=7512', '/?p=7519', '/?p=7556', '/?p=7636']
+Total number of player links are  1219
+The full URL is:  https://www.bjjheroes.com/?p=8141
+The full URL is:  https://www.bjjheroes.com/?p=9246
+The full URL is:  https://www.bjjheroes.com/?p=8494
+The full URL is:  https://www.bjjheroes.com/?p=390
+The full URL is:  https://www.bjjheroes.com/?p=3083
+The full URL is:  https://www.bjjheroes.com/?p=8814
+The full URL is:  https://www.bjjheroes.com/?p=8131
+The full URL is:  https://www.bjjheroes.com/?p=1133
+The full URL is:  https://www.bjjheroes.com/?p=7478
+The full URL is:  https://www.bjjheroes.com/?p=6339
+The full URL is:  https://www.bjjheroes.com/?p=8968
+The full URL is:  https://www.bjjheroes.com/?p=9541
+The full URL is:  https://www.bjjheroes.com/?p=699
+The full URL is:  https://www.bjjheroes.com/?p=1116
+The full URL is:  https://www.bjjheroes.com/?p=909
+The full URL is:  https://www.bjjheroes.com/?p=2189
+The full URL is:  https://www.bjjheroes.com/?p=289
+The full URL is:  https://www.bjjheroes.com/?p=2583
+The full URL is:  https://www.bjjheroes.com/?p=12235
+The full URL is:  https://www.bjjheroes.com/?p=696
+The full URL is:  https://www.bjjheroes.com/?p=2611
+The full URL is:  https://www.bjjheroes.com/?p=9876
+The full URL is:  https://www.bjjheroes.com/?p=7660
+The full URL is:  https://www.bjjheroes.com/?p=11746
+The full URL is:  https://www.bjjheroes.com/?p=1131
+The full URL is:  https://www.bjjheroes.com/?p=1757
+The full URL is:  https://www.bjjheroes.com/?p=1567
+The full URL is:  https://www.bjjheroes.com/?p=9166
+The full URL is:  https://www.bjjheroes.com/?p=9312
+The full URL is:  https://www.bjjheroes.com/?p=449
+The full URL is:  https://www.bjjheroes.com/?p=474
+The full URL is:  https://www.bjjheroes.com/?p=727
+The full URL is:  https://www.bjjheroes.com/?p=9793
+The full URL is:  https://www.bjjheroes.com/?p=9407
+The full URL is:  https://www.bjjheroes.com/?p=666
+The full URL is:  https://www.bjjheroes.com/?p=311
+The full URL is:  https://www.bjjheroes.com/?p=1671
+The full URL is:  https://www.bjjheroes.com/?p=84
+The full URL is:  https://www.bjjheroes.com/?p=1517
+The full URL is:  https://www.bjjheroes.com/?p=8525
+The full URL is:  https://www.bjjheroes.com/?p=891
+The full URL is:  https://www.bjjheroes.com/?p=9377
+The full URL is:  https://www.bjjheroes.com/?p=8884
+The full URL is:  https://www.bjjheroes.com/?p=10004
+The full URL is:  https://www.bjjheroes.com/?p=826
+The full URL is:  https://www.bjjheroes.com/?p=2052
+The full URL is:  https://www.bjjheroes.com/?p=1553
+The full URL is:  https://www.bjjheroes.com/?p=9058
+The full URL is:  https://www.bjjheroes.com/?p=7012
+The full URL is:  https://www.bjjheroes.com/?p=12064
+The full URL is:  https://www.bjjheroes.com/?p=8301
+The full URL is:  https://www.bjjheroes.com/?p=486
+The full URL is:  https://www.bjjheroes.com/?p=1391
+The full URL is:  https://www.bjjheroes.com/?p=8888
+The full URL is:  https://www.bjjheroes.com/?p=6979
+The full URL is:  https://www.bjjheroes.com/?p=2357
+The full URL is:  https://www.bjjheroes.com/?p=276
+The full URL is:  https://www.bjjheroes.com/?p=11685
+The full URL is:  https://www.bjjheroes.com/?p=249
+The full URL is:  https://www.bjjheroes.com/?p=1101
+The full URL is:  https://www.bjjheroes.com/?p=9615
+The full URL is:  https://www.bjjheroes.com/?p=1716
+The full URL is:  https://www.bjjheroes.com/?p=144
+The full URL is:  https://www.bjjheroes.com/?p=11646
+The full URL is:  https://www.bjjheroes.com/?p=7747
+The full URL is:  https://www.bjjheroes.com/?p=1640
+The full URL is:  https://www.bjjheroes.com/?p=78
+The full URL is:  https://www.bjjheroes.com/?p=11384
+The full URL is:  https://www.bjjheroes.com/?p=1414
+The full URL is:  https://www.bjjheroes.com/?p=314
+The full URL is:  https://www.bjjheroes.com/?p=8519
+The full URL is:  https://www.bjjheroes.com/?p=11808
+The full URL is:  https://www.bjjheroes.com/?p=11878
+The full URL is:  https://www.bjjheroes.com/?p=8293
+The full URL is:  https://www.bjjheroes.com/?p=10638
+The full URL is:  https://www.bjjheroes.com/?p=10764
+The full URL is:  https://www.bjjheroes.com/?p=540
+The full URL is:  https://www.bjjheroes.com/?p=1104
+The full URL is:  https://www.bjjheroes.com/?p=957
+The full URL is:  https://www.bjjheroes.com/?p=1236
+The full URL is:  https://www.bjjheroes.com/?p=1536
+The full URL is:  https://www.bjjheroes.com/?p=911
+The full URL is:  https://www.bjjheroes.com/?p=9130
+The full URL is:  https://www.bjjheroes.com/?p=1865
+The full URL is:  https://www.bjjheroes.com/?p=12
+The full URL is:  https://www.bjjheroes.com/?p=387
+The full URL is:  https://www.bjjheroes.com/?p=584
+The full URL is:  https://www.bjjheroes.com/?p=9931
+The full URL is:  https://www.bjjheroes.com/?p=260
+The full URL is:  https://www.bjjheroes.com/?p=11703
+The full URL is:  https://www.bjjheroes.com/?p=381
+The full URL is:  https://www.bjjheroes.com/?p=9401
+The full URL is:  https://www.bjjheroes.com/?p=1167
+The full URL is:  https://www.bjjheroes.com/?p=188
+The full URL is:  https://www.bjjheroes.com/?p=2606
+The full URL is:  https://www.bjjheroes.com/?p=12203
+The full URL is:  https://www.bjjheroes.com/?p=1023
+The full URL is:  https://www.bjjheroes.com/?p=1119
+The full URL is:  https://www.bjjheroes.com/?p=1998
+The full URL is:  https://www.bjjheroes.com/?p=425
+The full URL is:  https://www.bjjheroes.com/?p=1433
+The full URL is:  https://www.bjjheroes.com/?p=1158
+The full URL is:  https://www.bjjheroes.com/?p=471
+The full URL is:  https://www.bjjheroes.com/?p=898
+The full URL is:  https://www.bjjheroes.com/?p=9385
+The full URL is:  https://www.bjjheroes.com/?p=9048
+The full URL is:  https://www.bjjheroes.com/?p=10862
+The full URL is:  https://www.bjjheroes.com/?p=7535
+The full URL is:  https://www.bjjheroes.com/?p=253
+The full URL is:  https://www.bjjheroes.com/?p=2358
+The full URL is:  https://www.bjjheroes.com/?p=422
+The full URL is:  https://www.bjjheroes.com/?p=8298
+The full URL is:  https://www.bjjheroes.com/?p=9640
+The full URL is:  https://www.bjjheroes.com/?p=11354
+The full URL is:  https://www.bjjheroes.com/?p=1659
+The full URL is:  https://www.bjjheroes.com/?p=222
+The full URL is:  https://www.bjjheroes.com/?p=7568
+The full URL is:  https://www.bjjheroes.com/?p=637
+The full URL is:  https://www.bjjheroes.com/?p=684
+The full URL is:  https://www.bjjheroes.com/?p=1707
+The full URL is:  https://www.bjjheroes.com/?p=174
+The full URL is:  https://www.bjjheroes.com/?p=10176
+The full URL is:  https://www.bjjheroes.com/?p=283
+The full URL is:  https://www.bjjheroes.com/?p=868
+The full URL is:  https://www.bjjheroes.com/?p=12069
+The full URL is:  https://www.bjjheroes.com/?p=3117
+The full URL is:  https://www.bjjheroes.com/?p=7672
+The full URL is:  https://www.bjjheroes.com/?p=9217
+The full URL is:  https://www.bjjheroes.com/?p=10964
+The full URL is:  https://www.bjjheroes.com/?p=582
+The full URL is:  https://www.bjjheroes.com/?p=8624
+The full URL is:  https://www.bjjheroes.com/?p=2160
+The full URL is:  https://www.bjjheroes.com/?p=2460
+The full URL is:  https://www.bjjheroes.com/?p=36
+The full URL is:  https://www.bjjheroes.com/?p=297
+The full URL is:  https://www.bjjheroes.com/?p=1400
+The full URL is:  https://www.bjjheroes.com/?p=1594
+The full URL is:  https://www.bjjheroes.com/?p=745
+The full URL is:  https://www.bjjheroes.com/?p=9611
+The full URL is:  https://www.bjjheroes.com/?p=396
+The full URL is:  https://www.bjjheroes.com/?p=963
+The full URL is:  https://www.bjjheroes.com/?p=22
+The full URL is:  https://www.bjjheroes.com/?p=1000
+The full URL is:  https://www.bjjheroes.com/?p=829
+The full URL is:  https://www.bjjheroes.com/?p=1223
+The full URL is:  https://www.bjjheroes.com/?p=8562
+The full URL is:  https://www.bjjheroes.com/?p=10596
+The full URL is:  https://www.bjjheroes.com/?p=7657
+The full URL is:  https://www.bjjheroes.com/?p=428
+The full URL is:  https://www.bjjheroes.com/?p=929
+The full URL is:  https://www.bjjheroes.com/?p=2512
+The full URL is:  https://www.bjjheroes.com/?p=9845
+The full URL is:  https://www.bjjheroes.com/?p=7652
+The full URL is:  https://www.bjjheroes.com/?p=877
+The full URL is:  https://www.bjjheroes.com/?p=9545
+The full URL is:  https://www.bjjheroes.com/?p=2402
+The full URL is:  https://www.bjjheroes.com/?p=7808
+The full URL is:  https://www.bjjheroes.com/?p=7821
+The full URL is:  https://www.bjjheroes.com/?p=1155
+The full URL is:  https://www.bjjheroes.com/?p=1523
+The full URL is:  https://www.bjjheroes.com/?p=7928
+The full URL is:  https://www.bjjheroes.com/?p=410
+The full URL is:  https://www.bjjheroes.com/?p=2100
+The full URL is:  https://www.bjjheroes.com/?p=7749
+The full URL is:  https://www.bjjheroes.com/?p=489
+The full URL is:  https://www.bjjheroes.com/?p=443
+The full URL is:  https://www.bjjheroes.com/?p=8870
+The full URL is:  https://www.bjjheroes.com/?p=7976
+The full URL is:  https://www.bjjheroes.com/?p=9150
+The full URL is:  https://www.bjjheroes.com/?p=1933
+The full URL is:  https://www.bjjheroes.com/?p=8346
+The full URL is:  https://www.bjjheroes.com/?p=3185
+The full URL is:  https://www.bjjheroes.com/?p=2062
+The full URL is:  https://www.bjjheroes.com/?p=1108
+The full URL is:  https://www.bjjheroes.com/?p=2956
+The full URL is:  https://www.bjjheroes.com/?p=159
+The full URL is:  https://www.bjjheroes.com/?p=3384
+The full URL is:  https://www.bjjheroes.com/?p=5781
+The full URL is:  https://www.bjjheroes.com/?p=9152
+The full URL is:  https://www.bjjheroes.com/?p=11949
+The full URL is:  https://www.bjjheroes.com/?p=708
+The full URL is:  https://www.bjjheroes.com/?p=1019
+The full URL is:  https://www.bjjheroes.com/?p=1281
+The full URL is:  https://www.bjjheroes.com/?p=11919
+The full URL is:  https://www.bjjheroes.com/?p=11919
+The full URL is:  https://www.bjjheroes.com/?p=453
+The full URL is:  https://www.bjjheroes.com/?p=994
+The full URL is:  https://www.bjjheroes.com/?p=1145
+The full URL is:  https://www.bjjheroes.com/?p=7997
+The full URL is:  https://www.bjjheroes.com/?p=9325
+The full URL is:  https://www.bjjheroes.com/?p=8036
+The full URL is:  https://www.bjjheroes.com/?p=10953
+The full URL is:  https://www.bjjheroes.com/?p=8116
+The full URL is:  https://www.bjjheroes.com/?p=816
+The full URL is:  https://www.bjjheroes.com/?p=12275
+The full URL is:  https://www.bjjheroes.com/?p=1386
+The full URL is:  https://www.bjjheroes.com/?p=7463
+The full URL is:  https://www.bjjheroes.com/?p=1923
+The full URL is:  https://www.bjjheroes.com/?p=9668
+The full URL is:  https://www.bjjheroes.com/?p=9037
+The full URL is:  https://www.bjjheroes.com/?p=9700
+The full URL is:  https://www.bjjheroes.com/?p=1650
+The full URL is:  https://www.bjjheroes.com/?p=11262
+The full URL is:  https://www.bjjheroes.com/?p=4965
+The full URL is:  https://www.bjjheroes.com/?p=7321
+The full URL is:  https://www.bjjheroes.com/?p=1369
+The full URL is:  https://www.bjjheroes.com/?p=1820
+The full URL is:  https://www.bjjheroes.com/?p=112
+The full URL is:  https://www.bjjheroes.com/?p=244
+The full URL is:  https://www.bjjheroes.com/?p=1550
+The full URL is:  https://www.bjjheroes.com/?p=1498
+The full URL is:  https://www.bjjheroes.com/?p=778
+The full URL is:  https://www.bjjheroes.com/?p=2439
+The full URL is:  https://www.bjjheroes.com/?p=9157
+The full URL is:  https://www.bjjheroes.com/?p=9864
+The full URL is:  https://www.bjjheroes.com/?p=7831
+The full URL is:  https://www.bjjheroes.com/?p=10840
+The full URL is:  https://www.bjjheroes.com/?p=11963
+The full URL is:  https://www.bjjheroes.com/?p=8334
+The full URL is:  https://www.bjjheroes.com/?p=5258
+The full URL is:  https://www.bjjheroes.com/?p=1003
+The full URL is:  https://www.bjjheroes.com/?p=11823
+The full URL is:  https://www.bjjheroes.com/?p=2226
+The full URL is:  https://www.bjjheroes.com/?p=9934
+The full URL is:  https://www.bjjheroes.com/?p=9321
+The full URL is:  https://www.bjjheroes.com/?p=5229
+The full URL is:  https://www.bjjheroes.com/?p=8128
+The full URL is:  https://www.bjjheroes.com/?p=10000
+The full URL is:  https://www.bjjheroes.com/?p=1680
+The full URL is:  https://www.bjjheroes.com/?p=9941
+The full URL is:  https://www.bjjheroes.com/?p=10835
+The full URL is:  https://www.bjjheroes.com/?p=10835
+The full URL is:  https://www.bjjheroes.com/?p=7405
+The full URL is:  https://www.bjjheroes.com/?p=199
+The full URL is:  https://www.bjjheroes.com/?p=1152
+The full URL is:  https://www.bjjheroes.com/?p=9901
+The full URL is:  https://www.bjjheroes.com/?p=3508
+The full URL is:  https://www.bjjheroes.com/?p=4874
+The full URL is:  https://www.bjjheroes.com/?p=9483
+The full URL is:  https://www.bjjheroes.com/?p=1520
+The full URL is:  https://www.bjjheroes.com/?p=2324
+The full URL is:  https://www.bjjheroes.com/?p=562
+The full URL is:  https://www.bjjheroes.com/?p=8602
+The full URL is:  https://www.bjjheroes.com/?p=11357
+The full URL is:  https://www.bjjheroes.com/?p=9587
+The full URL is:  https://www.bjjheroes.com/?p=3371
+The full URL is:  https://www.bjjheroes.com/?p=7442
+The full URL is:  https://www.bjjheroes.com/?p=5238
+The full URL is:  https://www.bjjheroes.com/?p=10380
+The full URL is:  https://www.bjjheroes.com/?p=10318
+The full URL is:  https://www.bjjheroes.com/?p=7606
+The full URL is:  https://www.bjjheroes.com/?p=11182
+The full URL is:  https://www.bjjheroes.com/?p=7639
+The full URL is:  https://www.bjjheroes.com/?p=11762
+The full URL is:  https://www.bjjheroes.com/?p=10290
+The full URL is:  https://www.bjjheroes.com/?p=11093
+The full URL is:  https://www.bjjheroes.com/?p=11669
+The full URL is:  https://www.bjjheroes.com/?p=9465
+The full URL is:  https://www.bjjheroes.com/?p=10623
+The full URL is:  https://www.bjjheroes.com/?p=11693
+The full URL is:  https://www.bjjheroes.com/?p=9868
+The full URL is:  https://www.bjjheroes.com/?p=1229
+The full URL is:  https://www.bjjheroes.com/?p=8605
+The full URL is:  https://www.bjjheroes.com/?p=8215
+The full URL is:  https://www.bjjheroes.com/?p=12120
+The full URL is:  https://www.bjjheroes.com/?p=11223
+The full URL is:  https://www.bjjheroes.com/?p=1367
+The full URL is:  https://www.bjjheroes.com/?p=970
+The full URL is:  https://www.bjjheroes.com/?p=1713
+The full URL is:  https://www.bjjheroes.com/?p=9725
+The full URL is:  https://www.bjjheroes.com/?p=10252
+The full URL is:  https://www.bjjheroes.com/?p=1665
+The full URL is:  https://www.bjjheroes.com/?p=3402
+The full URL is:  https://www.bjjheroes.com/?p=4115
+The full URL is:  https://www.bjjheroes.com/?p=2266
+The full URL is:  https://www.bjjheroes.com/?p=322
+The full URL is:  https://www.bjjheroes.com/?p=658
+The full URL is:  https://www.bjjheroes.com/?p=1303
+The full URL is:  https://www.bjjheroes.com/?p=2068
+The full URL is:  https://www.bjjheroes.com/?p=11497
+The full URL is:  https://www.bjjheroes.com/?p=7878
+The full URL is:  https://www.bjjheroes.com/?p=1886
+The full URL is:  https://www.bjjheroes.com/?p=9370
+The full URL is:  https://www.bjjheroes.com/?p=9127
+The full URL is:  https://www.bjjheroes.com/?p=573
+The full URL is:  https://www.bjjheroes.com/?p=7675
+The full URL is:  https://www.bjjheroes.com/?p=9404
+The full URL is:  https://www.bjjheroes.com/?p=2056
+The full URL is:  https://www.bjjheroes.com/?p=7537
+The full URL is:  https://www.bjjheroes.com/?p=1268
+The full URL is:  https://www.bjjheroes.com/?p=4542
+The full URL is:  https://www.bjjheroes.com/?p=465
+The full URL is:  https://www.bjjheroes.com/?p=2416
+The full URL is:  https://www.bjjheroes.com/?p=9309
+The full URL is:  https://www.bjjheroes.com/?p=5067
+The full URL is:  https://www.bjjheroes.com/?p=6209
+The full URL is:  https://www.bjjheroes.com/?p=6029
+The full URL is:  https://www.bjjheroes.com/?p=8514
+The full URL is:  https://www.bjjheroes.com/?p=8686
+The full URL is:  https://www.bjjheroes.com/?p=9760
+The full URL is:  https://www.bjjheroes.com/?p=437
+The full URL is:  https://www.bjjheroes.com/?p=1403
+The full URL is:  https://www.bjjheroes.com/?p=690
+The full URL is:  https://www.bjjheroes.com/?p=1855
+The full URL is:  https://www.bjjheroes.com/?p=690
+The full URL is:  https://www.bjjheroes.com/?p=1411
+The full URL is:  https://www.bjjheroes.com/?p=1916
+The full URL is:  https://www.bjjheroes.com/?p=86
+The full URL is:  https://www.bjjheroes.com/?p=2304
+The full URL is:  https://www.bjjheroes.com/?p=9859
+The full URL is:  https://www.bjjheroes.com/?p=1044
+The full URL is:  https://www.bjjheroes.com/?p=1495
+The full URL is:  https://www.bjjheroes.com/?p=11456
+The full URL is:  https://www.bjjheroes.com/?p=11039
+The full URL is:  https://www.bjjheroes.com/?p=714
+The full URL is:  https://www.bjjheroes.com/?p=714
+The full URL is:  https://www.bjjheroes.com/?p=2040
+The full URL is:  https://www.bjjheroes.com/?p=1081
+The full URL is:  https://www.bjjheroes.com/?p=2091
+The full URL is:  https://www.bjjheroes.com/?p=819
+The full URL is:  https://www.bjjheroes.com/?p=9250
+The full URL is:  https://www.bjjheroes.com/?p=6071
+The full URL is:  https://www.bjjheroes.com/?p=11766
+The full URL is:  https://www.bjjheroes.com/?p=10232
+The full URL is:  https://www.bjjheroes.com/?p=10430
+The full URL is:  https://www.bjjheroes.com/?p=1017
+The full URL is:  https://www.bjjheroes.com/?p=10817
+The full URL is:  https://www.bjjheroes.com/?p=8560
+The full URL is:  https://www.bjjheroes.com/?p=9746
+The full URL is:  https://www.bjjheroes.com/?p=7698
+The full URL is:  https://www.bjjheroes.com/?p=11917
+The full URL is:  https://www.bjjheroes.com/?p=2401
+The full URL is:  https://www.bjjheroes.com/?p=5061
+The full URL is:  https://www.bjjheroes.com/?p=607
+The full URL is:  https://www.bjjheroes.com/?p=1563
+The full URL is:  https://www.bjjheroes.com/?p=1586
+The full URL is:  https://www.bjjheroes.com/?p=9051
+The full URL is:  https://www.bjjheroes.com/?p=10091
+The full URL is:  https://www.bjjheroes.com/?p=10153
+The full URL is:  https://www.bjjheroes.com/?p=11257
+The full URL is:  https://www.bjjheroes.com/?p=9241
+The full URL is:  https://www.bjjheroes.com/?p=595
+The full URL is:  https://www.bjjheroes.com/?p=8991
+The full URL is:  https://www.bjjheroes.com/?p=1696
+The full URL is:  https://www.bjjheroes.com/?p=5649
+The full URL is:  https://www.bjjheroes.com/?p=1408
+The full URL is:  https://www.bjjheroes.com/?p=8583
+The full URL is:  https://www.bjjheroes.com/?p=8532
+The full URL is:  https://www.bjjheroes.com/?p=528
+The full URL is:  https://www.bjjheroes.com/?p=3380
+The full URL is:  https://www.bjjheroes.com/?p=1329
+The full URL is:  https://www.bjjheroes.com/?p=3479
+The full URL is:  https://www.bjjheroes.com/?p=11797
+The full URL is:  https://www.bjjheroes.com/?p=446
+The full URL is:  https://www.bjjheroes.com/?p=7872
+The full URL is:  https://www.bjjheroes.com/?p=6550
+The full URL is:  https://www.bjjheroes.com/?p=11783
+The full URL is:  https://www.bjjheroes.com/?p=1322
+The full URL is:  https://www.bjjheroes.com/?p=1733
+The full URL is:  https://www.bjjheroes.com/?p=9361
+The full URL is:  https://www.bjjheroes.com/?p=415
+The full URL is:  https://www.bjjheroes.com/?p=9635
+The full URL is:  https://www.bjjheroes.com/?p=1388
+The full URL is:  https://www.bjjheroes.com/?p=8195
+The full URL is:  https://www.bjjheroes.com/?p=10199
+The full URL is:  https://www.bjjheroes.com/?p=108
+The full URL is:  https://www.bjjheroes.com/?p=620
+The full URL is:  https://www.bjjheroes.com/?p=11543
+The full URL is:  https://www.bjjheroes.com/?p=10932
+The full URL is:  https://www.bjjheroes.com/?p=8357
+The full URL is:  https://www.bjjheroes.com/?p=4177
+The full URL is:  https://www.bjjheroes.com/?p=5726
+The full URL is:  https://www.bjjheroes.com/?p=9338
+The full URL is:  https://www.bjjheroes.com/?p=11359
+The full URL is:  https://www.bjjheroes.com/?p=10926
+The full URL is:  https://www.bjjheroes.com/?p=258
+The full URL is:  https://www.bjjheroes.com/?p=11228
+The full URL is:  https://www.bjjheroes.com/?p=44
+The full URL is:  https://www.bjjheroes.com/?p=655
+The full URL is:  https://www.bjjheroes.com/?p=3129
+The full URL is:  https://www.bjjheroes.com/?p=7704
+The full URL is:  https://www.bjjheroes.com/?p=671
+The full URL is:  https://www.bjjheroes.com/?p=9554
+The full URL is:  https://www.bjjheroes.com/?p=371
+The full URL is:  https://www.bjjheroes.com/?p=8038
+The full URL is:  https://www.bjjheroes.com/?p=12241
+The full URL is:  https://www.bjjheroes.com/?p=184
+The full URL is:  https://www.bjjheroes.com/?p=7399
+The full URL is:  https://www.bjjheroes.com/?p=973
+The full URL is:  https://www.bjjheroes.com/?p=8138
+The full URL is:  https://www.bjjheroes.com/?p=1174
+The full URL is:  https://www.bjjheroes.com/?p=7332
+The full URL is:  https://www.bjjheroes.com/?p=9117
+The full URL is:  https://www.bjjheroes.com/?p=3279
+The full URL is:  https://www.bjjheroes.com/?p=1750
+The full URL is:  https://www.bjjheroes.com/?p=9488
+The full URL is:  https://www.bjjheroes.com/?p=1655
+The full URL is:  https://www.bjjheroes.com/?p=12225
+The full URL is:  https://www.bjjheroes.com/?p=2013
+The full URL is:  https://www.bjjheroes.com/?p=680
+The full URL is:  https://www.bjjheroes.com/?p=8477
+The full URL is:  https://www.bjjheroes.com/?p=6631
+The full URL is:  https://www.bjjheroes.com/?p=11145
+The full URL is:  https://www.bjjheroes.com/?p=8647
+The full URL is:  https://www.bjjheroes.com/?p=7743
+The full URL is:  https://www.bjjheroes.com/?p=11929
+The full URL is:  https://www.bjjheroes.com/?p=10408
+The full URL is:  https://www.bjjheroes.com/?p=1542
+The full URL is:  https://www.bjjheroes.com/?p=10295
+The full URL is:  https://www.bjjheroes.com/?p=6379
+The full URL is:  https://www.bjjheroes.com/?p=7552
+The full URL is:  https://www.bjjheroes.com/?p=9606
+The full URL is:  https://www.bjjheroes.com/?p=2335
+The full URL is:  https://www.bjjheroes.com/?p=1874
+The full URL is:  https://www.bjjheroes.com/?p=11939
+The full URL is:  https://www.bjjheroes.com/?p=3200
+The full URL is:  https://www.bjjheroes.com/?p=11208
+The full URL is:  https://www.bjjheroes.com/?p=8168
+The full URL is:  https://www.bjjheroes.com/?p=1813
+The full URL is:  https://www.bjjheroes.com/?p=8756
+The full URL is:  https://www.bjjheroes.com/?p=1014
+The full URL is:  https://www.bjjheroes.com/?p=10240
+The full URL is:  https://www.bjjheroes.com/?p=10986
+The full URL is:  https://www.bjjheroes.com/?p=4107
+The full URL is:  https://www.bjjheroes.com/?p=10759
+The full URL is:  https://www.bjjheroes.com/?p=10506
+The full URL is:  https://www.bjjheroes.com/?p=1214
+The full URL is:  https://www.bjjheroes.com/?p=1031
+The full URL is:  https://www.bjjheroes.com/?p=1526
+The full URL is:  https://www.bjjheroes.com/?p=1768
+The full URL is:  https://www.bjjheroes.com/?p=1827
+The full URL is:  https://www.bjjheroes.com/?p=88
+The full URL is:  https://www.bjjheroes.com/?p=235
+The full URL is:  https://www.bjjheroes.com/?p=610
+The full URL is:  https://www.bjjheroes.com/?p=364
+The full URL is:  https://www.bjjheroes.com/?p=8223
+The full URL is:  https://www.bjjheroes.com/?p=1423
+The full URL is:  https://www.bjjheroes.com/?p=9440
+The full URL is:  https://www.bjjheroes.com/?p=12259
+The full URL is:  https://www.bjjheroes.com/?p=11690
+The full URL is:  https://www.bjjheroes.com/?p=7608
+The full URL is:  https://www.bjjheroes.com/?p=11314
+The full URL is:  https://www.bjjheroes.com/?p=9202
+The full URL is:  https://www.bjjheroes.com/?p=7817
+The full URL is:  https://www.bjjheroes.com/?p=9096
+The full URL is:  https://www.bjjheroes.com/?p=644
+The full URL is:  https://www.bjjheroes.com/?p=11960
+The full URL is:  https://www.bjjheroes.com/?p=12178
+The full URL is:  https://www.bjjheroes.com/?p=1500
+The full URL is:  https://www.bjjheroes.com/?p=9074
+The full URL is:  https://www.bjjheroes.com/?p=2997
+The full URL is:  https://www.bjjheroes.com/?p=2403
+The full URL is:  https://www.bjjheroes.com/?p=8351
+The full URL is:  https://www.bjjheroes.com/?p=952
+The full URL is:  https://www.bjjheroes.com/?p=521
+The full URL is:  https://www.bjjheroes.com/?p=1719
+The full URL is:  https://www.bjjheroes.com/?p=3366
+The full URL is:  https://www.bjjheroes.com/?p=11114
+The full URL is:  https://www.bjjheroes.com/?p=566
+The full URL is:  https://www.bjjheroes.com/?p=8369
+The full URL is:  https://www.bjjheroes.com/?p=11894
+The full URL is:  https://www.bjjheroes.com/?p=8938
+The full URL is:  https://www.bjjheroes.com/?p=720
+The full URL is:  https://www.bjjheroes.com/?p=623
+The full URL is:  https://www.bjjheroes.com/?p=6836
+The full URL is:  https://www.bjjheroes.com/?p=3286
+The full URL is:  https://www.bjjheroes.com/?p=11195
+The full URL is:  https://www.bjjheroes.com/?p=1569
+The full URL is:  https://www.bjjheroes.com/?p=3220
+The full URL is:  https://www.bjjheroes.com/?p=10531
+The full URL is:  https://www.bjjheroes.com/?p=705
+The full URL is:  https://www.bjjheroes.com/?p=12095
+The full URL is:  https://www.bjjheroes.com/?p=7664
+The full URL is:  https://www.bjjheroes.com/?p=10588
+The full URL is:  https://www.bjjheroes.com/?p=11248
+The full URL is:  https://www.bjjheroes.com/?p=10085
+The full URL is:  https://www.bjjheroes.com/?p=8767
+The full URL is:  https://www.bjjheroes.com/?p=9367
+The full URL is:  https://www.bjjheroes.com/?p=975
+The full URL is:  https://www.bjjheroes.com/?p=10293
+The full URL is:  https://www.bjjheroes.com/?p=11084
+The full URL is:  https://www.bjjheroes.com/?p=10103
+The full URL is:  https://www.bjjheroes.com/?p=12247
+The full URL is:  https://www.bjjheroes.com/?p=754
+The full URL is:  https://www.bjjheroes.com/?p=7693
+The full URL is:  https://www.bjjheroes.com/?p=7931
+The full URL is:  https://www.bjjheroes.com/?p=2241
+The full URL is:  https://www.bjjheroes.com/?p=1548
+The full URL is:  https://www.bjjheroes.com/?p=3357
+The full URL is:  https://www.bjjheroes.com/?p=232
+The full URL is:  https://www.bjjheroes.com/?p=1633
+The full URL is:  https://www.bjjheroes.com/?p=650
+The full URL is:  https://www.bjjheroes.com/?p=2095
+The full URL is:  https://www.bjjheroes.com/?p=7096
+The full URL is:  https://www.bjjheroes.com/?p=11568
+The full URL is:  https://www.bjjheroes.com/?p=3313
+The full URL is:  https://www.bjjheroes.com/?p=8555
+The full URL is:  https://www.bjjheroes.com/?p=7757
+The full URL is:  https://www.bjjheroes.com/?p=7006
+The full URL is:  https://www.bjjheroes.com/?p=203
+The full URL is:  https://www.bjjheroes.com/?p=4507
+The full URL is:  https://www.bjjheroes.com/?p=4411
+The full URL is:  https://www.bjjheroes.com/?p=10370
+The full URL is:  https://www.bjjheroes.com/?p=11401
+The full URL is:  https://www.bjjheroes.com/?p=9711
+The full URL is:  https://www.bjjheroes.com/?p=1377
+The full URL is:  https://www.bjjheroes.com/?p=1398
+The full URL is:  https://www.bjjheroes.com/?p=9114
+The full URL is:  https://www.bjjheroes.com/?p=1377
+The full URL is:  https://www.bjjheroes.com/?p=967
+The full URL is:  https://www.bjjheroes.com/?p=11465
+The full URL is:  https://www.bjjheroes.com/?p=3009
+The full URL is:  https://www.bjjheroes.com/?p=1068
+The full URL is:  https://www.bjjheroes.com/?p=2504
+The full URL is:  https://www.bjjheroes.com/?p=12005
+The full URL is:  https://www.bjjheroes.com/?p=11725
+The full URL is:  https://www.bjjheroes.com/?p=8173
+The full URL is:  https://www.bjjheroes.com/?p=8974
+The full URL is:  https://www.bjjheroes.com/?p=10885
+The full URL is:  https://www.bjjheroes.com/?p=9031
+The full URL is:  https://www.bjjheroes.com/?p=12115
+The full URL is:  https://www.bjjheroes.com/?p=9758
+The full URL is:  https://www.bjjheroes.com/?p=12010
+The full URL is:  https://www.bjjheroes.com/?p=11049
+The full URL is:  https://www.bjjheroes.com/?p=1919
+The full URL is:  https://www.bjjheroes.com/?p=674
+The full URL is:  https://www.bjjheroes.com/?p=8981
+The full URL is:  https://www.bjjheroes.com/?p=8893
+The full URL is:  https://www.bjjheroes.com/?p=788
+The full URL is:  https://www.bjjheroes.com/?p=901
+The full URL is:  https://www.bjjheroes.com/?p=2475
+The full URL is:  https://www.bjjheroes.com/?p=10705
+The full URL is:  https://www.bjjheroes.com/?p=8399
+The full URL is:  https://www.bjjheroes.com/?p=8682
+The full URL is:  https://www.bjjheroes.com/?p=9477
+The full URL is:  https://www.bjjheroes.com/?p=9938
+The full URL is:  https://www.bjjheroes.com/?p=1041
+The full URL is:  https://www.bjjheroes.com/?p=11071
+The full URL is:  https://www.bjjheroes.com/?p=1840
+The full URL is:  https://www.bjjheroes.com/?p=1188
+The full URL is:  https://www.bjjheroes.com/?p=1730
+The full URL is:  https://www.bjjheroes.com/?p=1799
+The full URL is:  https://www.bjjheroes.com/?p=1662
+The full URL is:  https://www.bjjheroes.com/?p=12243
+The full URL is:  https://www.bjjheroes.com/?p=11132
+The full URL is:  https://www.bjjheroes.com/?p=9014
+The full URL is:  https://www.bjjheroes.com/?p=7981
+The full URL is:  https://www.bjjheroes.com/?p=9044
+The full URL is:  https://www.bjjheroes.com/?p=7082
+The full URL is:  https://www.bjjheroes.com/?p=10780
+The full URL is:  https://www.bjjheroes.com/?p=1624
+The full URL is:  https://www.bjjheroes.com/?p=935
+The full URL is:  https://www.bjjheroes.com/?p=3443
+The full URL is:  https://www.bjjheroes.com/?p=9067
+The full URL is:  https://www.bjjheroes.com/?p=886
+The full URL is:  https://www.bjjheroes.com/?p=1272
+The full URL is:  https://www.bjjheroes.com/?p=10339
+The full URL is:  https://www.bjjheroes.com/?p=8231
+The full URL is:  https://www.bjjheroes.com/?p=292
+The full URL is:  https://www.bjjheroes.com/?p=10352
+The full URL is:  https://www.bjjheroes.com/?p=419
+The full URL is:  https://www.bjjheroes.com/?p=903
+The full URL is:  https://www.bjjheroes.com/?p=1307
+The full URL is:  https://www.bjjheroes.com/?p=512
+The full URL is:  https://www.bjjheroes.com/?p=10741
+The full URL is:  https://www.bjjheroes.com/?p=5078
+The full URL is:  https://www.bjjheroes.com/?p=1419
+The full URL is:  https://www.bjjheroes.com/?p=10669
+The full URL is:  https://www.bjjheroes.com/?p=11658
+The full URL is:  https://www.bjjheroes.com/?p=358
+The full URL is:  https://www.bjjheroes.com/?p=5660
+The full URL is:  https://www.bjjheroes.com/?p=5655
+The full URL is:  https://www.bjjheroes.com/?p=6043
+The full URL is:  https://www.bjjheroes.com/?p=875
+The full URL is:  https://www.bjjheroes.com/?p=12267
+The full URL is:  https://www.bjjheroes.com/?p=8516
+The full URL is:  https://www.bjjheroes.com/?p=11812
+The full URL is:  https://www.bjjheroes.com/?p=11512
+The full URL is:  https://www.bjjheroes.com/?p=11701
+The full URL is:  https://www.bjjheroes.com/?p=1263
+The full URL is:  https://www.bjjheroes.com/?p=809
+The full URL is:  https://www.bjjheroes.com/?p=3245
+The full URL is:  https://www.bjjheroes.com/?p=1395
+The full URL is:  https://www.bjjheroes.com/?p=1675
+The full URL is:  https://www.bjjheroes.com/?p=10403
+The full URL is:  https://www.bjjheroes.com/?p=1722
+The full URL is:  https://www.bjjheroes.com/?p=2560
+The full URL is:  https://www.bjjheroes.com/?p=2443
+The full URL is:  https://www.bjjheroes.com/?p=693
+The full URL is:  https://www.bjjheroes.com/?p=1426
+The full URL is:  https://www.bjjheroes.com/?p=2404
+The full URL is:  https://www.bjjheroes.com/?p=3122
+The full URL is:  https://www.bjjheroes.com/?p=11872
+The full URL is:  https://www.bjjheroes.com/?p=5263
+The full URL is:  https://www.bjjheroes.com/?p=2627
+The full URL is:  https://www.bjjheroes.com/?p=2444
+The full URL is:  https://www.bjjheroes.com/?p=10895
+The full URL is:  https://www.bjjheroes.com/?p=10155
+The full URL is:  https://www.bjjheroes.com/?p=7543
+The full URL is:  https://www.bjjheroes.com/?p=8112
+The full URL is:  https://www.bjjheroes.com/?p=5423
+The full URL is:  https://www.bjjheroes.com/?p=9230
+The full URL is:  https://www.bjjheroes.com/?p=9002
+The full URL is:  https://www.bjjheroes.com/?p=10698
+The full URL is:  https://www.bjjheroes.com/?p=8800
+The full URL is:  https://www.bjjheroes.com/?p=7047
+The full URL is:  https://www.bjjheroes.com/?p=10658
+The full URL is:  https://www.bjjheroes.com/?p=10909
+The full URL is:  https://www.bjjheroes.com/?p=8729
+The full URL is:  https://www.bjjheroes.com/?p=2322
+The full URL is:  https://www.bjjheroes.com/?p=1382
+The full URL is:  https://www.bjjheroes.com/?p=570
+The full URL is:  https://www.bjjheroes.com/?p=2985
+The full URL is:  https://www.bjjheroes.com/?p=739
+The full URL is:  https://www.bjjheroes.com/?p=8361
+The full URL is:  https://www.bjjheroes.com/?p=16
+The full URL is:  https://www.bjjheroes.com/?p=10644
+The full URL is:  https://www.bjjheroes.com/?p=10405
+The full URL is:  https://www.bjjheroes.com/?p=1090
+The full URL is:  https://www.bjjheroes.com/?p=9706
+The full URL is:  https://www.bjjheroes.com/?p=8337
+The full URL is:  https://www.bjjheroes.com/?p=1253
+The full URL is:  https://www.bjjheroes.com/?p=205
+The full URL is:  https://www.bjjheroes.com/?p=943
+The full URL is:  https://www.bjjheroes.com/?p=4163
+The full URL is:  https://www.bjjheroes.com/?p=9
+The full URL is:  https://www.bjjheroes.com/?p=3099
+The full URL is:  https://www.bjjheroes.com/?p=4135
+The full URL is:  https://www.bjjheroes.com/?p=687
+The full URL is:  https://www.bjjheroes.com/?p=3090
+The full URL is:  https://www.bjjheroes.com/?p=492
+The full URL is:  https://www.bjjheroes.com/?p=405
+The full URL is:  https://www.bjjheroes.com/?p=1218
+The full URL is:  https://www.bjjheroes.com/?p=1161
+The full URL is:  https://www.bjjheroes.com/?p=1182
+The full URL is:  https://www.bjjheroes.com/?p=1124
+The full URL is:  https://www.bjjheroes.com/?p=617
+The full URL is:  https://www.bjjheroes.com/?p=1848
+The full URL is:  https://www.bjjheroes.com/?p=2385
+The full URL is:  https://www.bjjheroes.com/?p=9573
+The full URL is:  https://www.bjjheroes.com/?p=6577
+The full URL is:  https://www.bjjheroes.com/?p=5702
+The full URL is:  https://www.bjjheroes.com/?p=4789
+The full URL is:  https://www.bjjheroes.com/?p=8290
+The full URL is:  https://www.bjjheroes.com/?p=2290
+The full URL is:  https://www.bjjheroes.com/?p=984
+The full URL is:  https://www.bjjheroes.com/?p=1619
+The full URL is:  https://www.bjjheroes.com/?p=1785
+The full URL is:  https://www.bjjheroes.com/?p=11187
+The full URL is:  https://www.bjjheroes.com/?p=10130
+The full URL is:  https://www.bjjheroes.com/?p=12233
+The full URL is:  https://www.bjjheroes.com/?p=12201
+The full URL is:  https://www.bjjheroes.com/?p=8759
+The full URL is:  https://www.bjjheroes.com/?p=1810
+The full URL is:  https://www.bjjheroes.com/?p=3546
+The full URL is:  https://www.bjjheroes.com/?p=790
+The full URL is:  https://www.bjjheroes.com/?p=1226
+The full URL is:  https://www.bjjheroes.com/?p=2111
+The full URL is:  https://www.bjjheroes.com/?p=1774
+The full URL is:  https://www.bjjheroes.com/?p=367
+The full URL is:  https://www.bjjheroes.com/?p=7645
+The full URL is:  https://www.bjjheroes.com/?p=11789
+The full URL is:  https://www.bjjheroes.com/?p=10509
+The full URL is:  https://www.bjjheroes.com/?p=11874
+The full URL is:  https://www.bjjheroes.com/?p=1858
+The full URL is:  https://www.bjjheroes.com/?p=10094
+The full URL is:  https://www.bjjheroes.com/?p=1185
+The full URL is:  https://www.bjjheroes.com/?p=931
+The full URL is:  https://www.bjjheroes.com/?p=8996
+The full URL is:  https://www.bjjheroes.com/?p=960
+The full URL is:  https://www.bjjheroes.com/?p=9106
+The full URL is:  https://www.bjjheroes.com/?p=11926
+The full URL is:  https://www.bjjheroes.com/?p=8218
+The full URL is:  https://www.bjjheroes.com/?p=9271
+The full URL is:  https://www.bjjheroes.com/?p=8308
+The full URL is:  https://www.bjjheroes.com/?p=8714
+The full URL is:  https://www.bjjheroes.com/?p=872
+The full URL is:  https://www.bjjheroes.com/?p=11620
+The full URL is:  https://www.bjjheroes.com/?p=10088
+The full URL is:  https://www.bjjheroes.com/?p=10451
+The full URL is:  https://www.bjjheroes.com/?p=11423
+The full URL is:  https://www.bjjheroes.com/?p=12122
+The full URL is:  https://www.bjjheroes.com/?p=122
+The full URL is:  https://www.bjjheroes.com/?p=8427
+The full URL is:  https://www.bjjheroes.com/?p=9253
+The full URL is:  https://www.bjjheroes.com/?p=1747
+The full URL is:  https://www.bjjheroes.com/?p=823
+The full URL is:  https://www.bjjheroes.com/?p=1583
+The full URL is:  https://www.bjjheroes.com/?p=7917
+The full URL is:  https://www.bjjheroes.com/?p=2231
+The full URL is:  https://www.bjjheroes.com/?p=1882
+The full URL is:  https://www.bjjheroes.com/?p=8444
+The full URL is:  https://www.bjjheroes.com/?p=1005
+The full URL is:  https://www.bjjheroes.com/?p=2206
+The full URL is:  https://www.bjjheroes.com/?p=7903
+The full URL is:  https://www.bjjheroes.com/?p=3416
+The full URL is:  https://www.bjjheroes.com/?p=9486
+The full URL is:  https://www.bjjheroes.com/?p=627
+The full URL is:  https://www.bjjheroes.com/?p=484
+The full URL is:  https://www.bjjheroes.com/?p=702
+The full URL is:  https://www.bjjheroes.com/?p=11245
+The full URL is:  https://www.bjjheroes.com/?p=11986
+The full URL is:  https://www.bjjheroes.com/?p=9227
+The full URL is:  https://www.bjjheroes.com/?p=10216
+The full URL is:  https://www.bjjheroes.com/?p=8081
+The full URL is:  https://www.bjjheroes.com/?p=2602
+The full URL is:  https://www.bjjheroes.com/?p=2247
+The full URL is:  https://www.bjjheroes.com/?p=7914
+The full URL is:  https://www.bjjheroes.com/?p=7507
+The full URL is:  https://www.bjjheroes.com/?p=2297
+The full URL is:  https://www.bjjheroes.com/?p=9823
+The full URL is:  https://www.bjjheroes.com/?p=12110
+The full URL is:  https://www.bjjheroes.com/?p=12102
+The full URL is:  https://www.bjjheroes.com/?p=7922
+The full URL is:  https://www.bjjheroes.com/?p=11735
+The full URL is:  https://www.bjjheroes.com/?p=10468
+The full URL is:  https://www.bjjheroes.com/?p=1604
+The full URL is:  https://www.bjjheroes.com/?p=8585
+The full URL is:  https://www.bjjheroes.com/?p=9502
+The full URL is:  https://www.bjjheroes.com/?p=10172
+The full URL is:  https://www.bjjheroes.com/?p=8278
+The full URL is:  https://www.bjjheroes.com/?p=579
+The full URL is:  https://www.bjjheroes.com/?p=11340
+The full URL is:  https://www.bjjheroes.com/?p=2216
+The full URL is:  https://www.bjjheroes.com/?p=11615
+The full URL is:  https://www.bjjheroes.com/?p=256
+The full URL is:  https://www.bjjheroes.com/?p=11707
+The full URL is:  https://www.bjjheroes.com/?p=831
+The full URL is:  https://www.bjjheroes.com/?p=1071
+The full URL is:  https://www.bjjheroes.com/?p=2107
+The full URL is:  https://www.bjjheroes.com/?p=2452
+The full URL is:  https://www.bjjheroes.com/?p=524
+The full URL is:  https://www.bjjheroes.com/?p=527
+The full URL is:  https://www.bjjheroes.com/?p=1405
+The full URL is:  https://www.bjjheroes.com/?p=532
+The full URL is:  https://www.bjjheroes.com/?p=1259
+The full URL is:  https://www.bjjheroes.com/?p=8658
+The full URL is:  https://www.bjjheroes.com/?p=11015
+The full URL is:  https://www.bjjheroes.com/?p=8069
+The full URL is:  https://www.bjjheroes.com/?p=919
+The full URL is:  https://www.bjjheroes.com/?p=938
+The full URL is:  https://www.bjjheroes.com/?p=9717
+The full URL is:  https://www.bjjheroes.com/?p=9646
+The full URL is:  https://www.bjjheroes.com/?p=9344
+The full URL is:  https://www.bjjheroes.com/?p=1870
+The full URL is:  https://www.bjjheroes.com/?p=1743
+The full URL is:  https://www.bjjheroes.com/?p=3016
+The full URL is:  https://www.bjjheroes.com/?p=10220
+The full URL is:  https://www.bjjheroes.com/?p=2999
+The full URL is:  https://www.bjjheroes.com/?p=11862
+The full URL is:  https://www.bjjheroes.com/?p=12277
+The full URL is:  https://www.bjjheroes.com/?p=10263
+The full URL is:  https://www.bjjheroes.com/?p=8305
+The full URL is:  https://www.bjjheroes.com/?p=9741
+The full URL is:  https://www.bjjheroes.com/?p=1980
+The full URL is:  https://www.bjjheroes.com/?p=11991
+The full URL is:  https://www.bjjheroes.com/?p=7760
+The full URL is:  https://www.bjjheroes.com/?p=1087
+The full URL is:  https://www.bjjheroes.com/?p=8448
+The full URL is:  https://www.bjjheroes.com/?p=11027
+The full URL is:  https://www.bjjheroes.com/?p=1034
+The full URL is:  https://www.bjjheroes.com/?p=10928
+The full URL is:  https://www.bjjheroes.com/?p=11044
+The full URL is:  https://www.bjjheroes.com/?p=1050
+The full URL is:  https://www.bjjheroes.com/?p=1316
+The full URL is:  https://www.bjjheroes.com/?p=9959
+The full URL is:  https://www.bjjheroes.com/?p=7847
+The full URL is:  https://www.bjjheroes.com/?p=10399
+The full URL is:  https://www.bjjheroes.com/?p=8241
+The full URL is:  https://www.bjjheroes.com/?p=921
+The full URL is:  https://www.bjjheroes.com/?p=4747
+The full URL is:  https://www.bjjheroes.com/?p=2453
+The full URL is:  https://www.bjjheroes.com/?p=1753
+The full URL is:  https://www.bjjheroes.com/?p=1577
+The full URL is:  https://www.bjjheroes.com/?p=6599
+The full URL is:  https://www.bjjheroes.com/?p=179
+The full URL is:  https://www.bjjheroes.com/?p=194
+The full URL is:  https://www.bjjheroes.com/?p=460
+The full URL is:  https://www.bjjheroes.com/?p=12048
+The full URL is:  https://www.bjjheroes.com/?p=576
+The full URL is:  https://www.bjjheroes.com/?p=10174
+The full URL is:  https://www.bjjheroes.com/?p=8634
+The full URL is:  https://www.bjjheroes.com/?p=11656
+The full URL is:  https://www.bjjheroes.com/?p=1781
+The full URL is:  https://www.bjjheroes.com/?p=8407
+The full URL is:  https://www.bjjheroes.com/?p=640
+The full URL is:  https://www.bjjheroes.com/?p=177
+The full URL is:  https://www.bjjheroes.com/?p=813
+The full URL is:  https://www.bjjheroes.com/?p=7539
+The full URL is:  https://www.bjjheroes.com/?p=548
+The full URL is:  https://www.bjjheroes.com/?p=991
+The full URL is:  https://www.bjjheroes.com/?p=1545
+The full URL is:  https://www.bjjheroes.com/?p=8213
+The full URL is:  https://www.bjjheroes.com/?p=11534
+The full URL is:  https://www.bjjheroes.com/?p=1627
+The full URL is:  https://www.bjjheroes.com/?p=1149
+The full URL is:  https://www.bjjheroes.com/?p=1957
+The full URL is:  https://www.bjjheroes.com/?p=1778
+The full URL is:  https://www.bjjheroes.com/?p=8779
+The full URL is:  https://www.bjjheroes.com/?p=1372
+The full URL is:  https://www.bjjheroes.com/?p=2235
+The full URL is:  https://www.bjjheroes.com/?p=548
+The full URL is:  https://www.bjjheroes.com/?p=588
+The full URL is:  https://www.bjjheroes.com/?p=52
+The full URL is:  https://www.bjjheroes.com/?p=2003
+The full URL is:  https://www.bjjheroes.com/?p=331
+The full URL is:  https://www.bjjheroes.com/?p=278
+The full URL is:  https://www.bjjheroes.com/?p=93
+The full URL is:  https://www.bjjheroes.com/?p=1325
+The full URL is:  https://www.bjjheroes.com/?p=361
+The full URL is:  https://www.bjjheroes.com/?p=2340
+The full URL is:  https://www.bjjheroes.com/?p=1534
+The full URL is:  https://www.bjjheroes.com/?p=8202
+The full URL is:  https://www.bjjheroes.com/?p=591
+The full URL is:  https://www.bjjheroes.com/?p=8409
+The full URL is:  https://www.bjjheroes.com/?p=630
+The full URL is:  https://www.bjjheroes.com/?p=338
+The full URL is:  https://www.bjjheroes.com/?p=9094
+The full URL is:  https://www.bjjheroes.com/?p=10357
+The full URL is:  https://www.bjjheroes.com/?p=806
+The full URL is:  https://www.bjjheroes.com/?p=67
+The full URL is:  https://www.bjjheroes.com/?p=9559
+The full URL is:  https://www.bjjheroes.com/?p=11064
+The full URL is:  https://www.bjjheroes.com/?p=1817
+The full URL is:  https://www.bjjheroes.com/?p=5761
+The full URL is:  https://www.bjjheroes.com/?p=1488
+The full URL is:  https://www.bjjheroes.com/?p=12254
+The full URL is:  https://www.bjjheroes.com/?p=378
+The full URL is:  https://www.bjjheroes.com/?p=926
+The full URL is:  https://www.bjjheroes.com/?p=224
+The full URL is:  https://www.bjjheroes.com/?p=535
+The full URL is:  https://www.bjjheroes.com/?p=553
+The full URL is:  https://www.bjjheroes.com/?p=601
+The full URL is:  https://www.bjjheroes.com/?p=10880
+The full URL is:  https://www.bjjheroes.com/?p=2529
+The full URL is:  https://www.bjjheroes.com/?p=550
+The full URL is:  https://www.bjjheroes.com/?p=1824
+The full URL is:  https://www.bjjheroes.com/?p=384
+The full URL is:  https://www.bjjheroes.com/?p=1204
+The full URL is:  https://www.bjjheroes.com/?p=3394
+The full URL is:  https://www.bjjheroes.com/?p=11281
+The full URL is:  https://www.bjjheroes.com/?p=195
+The full URL is:  https://www.bjjheroes.com/?p=3226
+The full URL is:  https://www.bjjheroes.com/?p=1065
+The full URL is:  https://www.bjjheroes.com/?p=247
+The full URL is:  https://www.bjjheroes.com/?p=2355
+The full URL is:  https://www.bjjheroes.com/?p=2048
+The full URL is:  https://www.bjjheroes.com/?p=1207
+The full URL is:  https://www.bjjheroes.com/?p=8696
+The full URL is:  https://www.bjjheroes.com/?p=543
+The full URL is:  https://www.bjjheroes.com/?p=3206
+The full URL is:  https://www.bjjheroes.com/?p=631
+The full URL is:  https://www.bjjheroes.com/?p=1895
+The full URL is:  https://www.bjjheroes.com/?p=10579
+The full URL is:  https://www.bjjheroes.com/?p=559
+The full URL is:  https://www.bjjheroes.com/?p=647
+The full URL is:  https://www.bjjheroes.com/?p=9720
+The full URL is:  https://www.bjjheroes.com/?p=1440
+The full URL is:  https://www.bjjheroes.com/?p=8762
+The full URL is:  https://www.bjjheroes.com/?p=10321
+The full URL is:  https://www.bjjheroes.com/?p=12251
+The full URL is:  https://www.bjjheroes.com/?p=1297
+The full URL is:  https://www.bjjheroes.com/?p=505
+The full URL is:  https://www.bjjheroes.com/?p=1942
+The full URL is:  https://www.bjjheroes.com/?p=214
+The full URL is:  https://www.bjjheroes.com/?p=8261
+The full URL is:  https://www.bjjheroes.com/?p=1445
+The full URL is:  https://www.bjjheroes.com/?p=27
+The full URL is:  https://www.bjjheroes.com/?p=70
+The full URL is:  https://www.bjjheroes.com/?p=355
+The full URL is:  https://www.bjjheroes.com/?p=7579
+The full URL is:  https://www.bjjheroes.com/?p=320
+The full URL is:  https://www.bjjheroes.com/?p=10162
+The full URL is:  https://www.bjjheroes.com/?p=117
+The full URL is:  https://www.bjjheroes.com/?p=11499
+The full URL is:  https://www.bjjheroes.com/?p=9261
+The full URL is:  https://www.bjjheroes.com/?p=431
+The full URL is:  https://www.bjjheroes.com/?p=743
+The full URL is:  https://www.bjjheroes.com/?p=515
+The full URL is:  https://www.bjjheroes.com/?p=12080
+The full URL is:  https://www.bjjheroes.com/?p=147
+The full URL is:  https://www.bjjheroes.com/?p=8100
+The full URL is:  https://www.bjjheroes.com/?p=781
+The full URL is:  https://www.bjjheroes.com/?p=725
+The full URL is:  https://www.bjjheroes.com/?p=2378
+The full URL is:  https://www.bjjheroes.com/?p=1232
+The full URL is:  https://www.bjjheroes.com/?p=1644
+The full URL is:  https://www.bjjheroes.com/?p=2252
+The full URL is:  https://www.bjjheroes.com/?p=11271
+The full URL is:  https://www.bjjheroes.com/?p=1710
+The full URL is:  https://www.bjjheroes.com/?p=8192
+The full URL is:  https://www.bjjheroes.com/?p=1436
+The full URL is:  https://www.bjjheroes.com/?p=1761
+The full URL is:  https://www.bjjheroes.com/?p=11510
+The full URL is:  https://www.bjjheroes.com/?p=1904
+The full URL is:  https://www.bjjheroes.com/?p=11111
+The full URL is:  https://www.bjjheroes.com/?p=481
+The full URL is:  https://www.bjjheroes.com/?p=9515
+The full URL is:  https://www.bjjheroes.com/?p=7695
+The full URL is:  https://www.bjjheroes.com/?p=12215
+The full URL is:  https://www.bjjheroes.com/?p=7768
+The full URL is:  https://www.bjjheroes.com/?p=7686
+The full URL is:  https://www.bjjheroes.com/?p=7582
+The full URL is:  https://www.bjjheroes.com/?p=9697
+The full URL is:  https://www.bjjheroes.com/?p=3505
+The full URL is:  https://www.bjjheroes.com/?p=138
+The full URL is:  https://www.bjjheroes.com/?p=1312
+The full URL is:  https://www.bjjheroes.com/?p=677
+The full URL is:  https://www.bjjheroes.com/?p=9637
+The full URL is:  https://www.bjjheroes.com/?p=895
+The full URL is:  https://www.bjjheroes.com/?p=4268
+The full URL is:  https://www.bjjheroes.com/?p=8528
+The full URL is:  https://www.bjjheroes.com/?p=1301
+The full URL is:  https://www.bjjheroes.com/?p=3186
+The full URL is:  https://www.bjjheroes.com/?p=793
+The full URL is:  https://www.bjjheroes.com/?p=718
+The full URL is:  https://www.bjjheroes.com/?p=9064
+The full URL is:  https://www.bjjheroes.com/?p=1508
+The full URL is:  https://www.bjjheroes.com/?p=1319
+The full URL is:  https://www.bjjheroes.com/?p=9893
+The full URL is:  https://www.bjjheroes.com/?p=1631
+The full URL is:  https://www.bjjheroes.com/?p=11454
+The full URL is:  https://www.bjjheroes.com/?p=11471
+The full URL is:  https://www.bjjheroes.com/?p=11697
+The full URL is:  https://www.bjjheroes.com/?p=9762
+The full URL is:  https://www.bjjheroes.com/?p=1430
+The full URL is:  https://www.bjjheroes.com/?p=3607
+The full URL is:  https://www.bjjheroes.com/?p=11975
+The full URL is:  https://www.bjjheroes.com/?p=1290
+The full URL is:  https://www.bjjheroes.com/?p=477
+The full URL is:  https://www.bjjheroes.com/?p=8718
+The full URL is:  https://www.bjjheroes.com/?p=10099
+The full URL is:  https://www.bjjheroes.com/?p=10100
+The full URL is:  https://www.bjjheroes.com/?p=1178
+The full URL is:  https://www.bjjheroes.com/?p=11338
+The full URL is:  https://www.bjjheroes.com/?p=8819
+The full URL is:  https://www.bjjheroes.com/?p=537
+The full URL is:  https://www.bjjheroes.com/?p=2181
+The full URL is:  https://www.bjjheroes.com/?p=1727
+The full URL is:  https://www.bjjheroes.com/?p=8632
+The full URL is:  https://www.bjjheroes.com/?p=1555
+The full URL is:  https://www.bjjheroes.com/?p=2434
+The full URL is:  https://www.bjjheroes.com/?p=1055
+The full URL is:  https://www.bjjheroes.com/?p=7865
+The full URL is:  https://www.bjjheroes.com/?p=4145
+The full URL is:  https://www.bjjheroes.com/?p=8866
+The full URL is:  https://www.bjjheroes.com/?p=8874
+The full URL is:  https://www.bjjheroes.com/?p=12057
+The full URL is:  https://www.bjjheroes.com/?p=3458
+The full URL is:  https://www.bjjheroes.com/?p=8105
+The full URL is:  https://www.bjjheroes.com/?p=1994
+The full URL is:  https://www.bjjheroes.com/?p=10903
+The full URL is:  https://www.bjjheroes.com/?p=12003
+The full URL is:  https://www.bjjheroes.com/?p=1491
+The full URL is:  https://www.bjjheroes.com/?p=8394
+The full URL is:  https://www.bjjheroes.com/?p=10501
+The full URL is:  https://www.bjjheroes.com/?p=1851
+The full URL is:  https://www.bjjheroes.com/?p=9083
+The full URL is:  https://www.bjjheroes.com/?p=11909
+The full URL is:  https://www.bjjheroes.com/?p=2073
+The full URL is:  https://www.bjjheroes.com/?p=10210
+The full URL is:  https://www.bjjheroes.com/?p=7732
+The full URL is:  https://www.bjjheroes.com/?p=1945
+The full URL is:  https://www.bjjheroes.com/?p=1617
+The full URL is:  https://www.bjjheroes.com/?p=10159
+The full URL is:  https://www.bjjheroes.com/?p=3110
+The full URL is:  https://www.bjjheroes.com/?p=11754
+The full URL is:  https://www.bjjheroes.com/?p=8090
+The full URL is:  https://www.bjjheroes.com/?p=730
+The full URL is:  https://www.bjjheroes.com/?p=1275
+The full URL is:  https://www.bjjheroes.com/?p=9180
+The full URL is:  https://www.bjjheroes.com/?p=374
+The full URL is:  https://www.bjjheroes.com/?p=733
+The full URL is:  https://www.bjjheroes.com/?p=1600
+The full URL is:  https://www.bjjheroes.com/?p=9173
+The full URL is:  https://www.bjjheroes.com/?p=9956
+The full URL is:  https://www.bjjheroes.com/?p=4235
+The full URL is:  https://www.bjjheroes.com/?p=81
+The full URL is:  https://www.bjjheroes.com/?p=2035
+The full URL is:  https://www.bjjheroes.com/?p=1986
+The full URL is:  https://www.bjjheroes.com/?p=272
+The full URL is:  https://www.bjjheroes.com/?p=2175
+The full URL is:  https://www.bjjheroes.com/?p=11709
+The full URL is:  https://www.bjjheroes.com/?p=25
+The full URL is:  https://www.bjjheroes.com/?p=1097
+The full URL is:  https://www.bjjheroes.com/?p=11572
+The full URL is:  https://www.bjjheroes.com/?p=508
+The full URL is:  https://www.bjjheroes.com/?p=11632
+The full URL is:  https://www.bjjheroes.com/?p=1891
+The full URL is:  https://www.bjjheroes.com/?p=8842
+The full URL is:  https://www.bjjheroes.com/?p=613
+The full URL is:  https://www.bjjheroes.com/?p=634
+The full URL is:  https://www.bjjheroes.com/?p=2517
+The full URL is:  https://www.bjjheroes.com/?p=11559
+The full URL is:  https://www.bjjheroes.com/?p=11771
+The full URL is:  https://www.bjjheroes.com/?p=11794
+The full URL is:  https://www.bjjheroes.com/?p=11293
+The full URL is:  https://www.bjjheroes.com/?p=8119
+The full URL is:  https://www.bjjheroes.com/?p=8783
+The full URL is:  https://www.bjjheroes.com/?p=5347
+The full URL is:  https://www.bjjheroes.com/?p=12055
+The full URL is:  https://www.bjjheroes.com/?p=10897
+The full URL is:  https://www.bjjheroes.com/?p=9121
+The full URL is:  https://www.bjjheroes.com/?p=8536
+The full URL is:  https://www.bjjheroes.com/?p=996
+The full URL is:  https://www.bjjheroes.com/?p=3348
+The full URL is:  https://www.bjjheroes.com/?p=11212
+The full URL is:  https://www.bjjheroes.com/?p=1740
+The full URL is:  https://www.bjjheroes.com/?p=1122
+The full URL is:  https://www.bjjheroes.com/?p=3569
+The full URL is:  https://www.bjjheroes.com/?p=12227
+The full URL is:  https://www.bjjheroes.com/?p=1137
+The full URL is:  https://www.bjjheroes.com/?p=4230
+The full URL is:  https://www.bjjheroes.com/?p=4248
+The full URL is:  https://www.bjjheroes.com/?p=4310
+The full URL is:  https://www.bjjheroes.com/?p=4317
+The full URL is:  https://www.bjjheroes.com/?p=4328
+The full URL is:  https://www.bjjheroes.com/?p=4334
+The full URL is:  https://www.bjjheroes.com/?p=4381
+The full URL is:  https://www.bjjheroes.com/?p=4420
+The full URL is:  https://www.bjjheroes.com/?p=4415
+The full URL is:  https://www.bjjheroes.com/?p=4437
+The full URL is:  https://www.bjjheroes.com/?p=4430
+The full URL is:  https://www.bjjheroes.com/?p=4460
+The full URL is:  https://www.bjjheroes.com/?p=4465
+The full URL is:  https://www.bjjheroes.com/?p=4481
+The full URL is:  https://www.bjjheroes.com/?p=4485
+The full URL is:  https://www.bjjheroes.com/?p=4655
+The full URL is:  https://www.bjjheroes.com/?p=4641
+The full URL is:  https://www.bjjheroes.com/?p=4521
+The full URL is:  https://www.bjjheroes.com/?p=4687
+The full URL is:  https://www.bjjheroes.com/?p=4676
+The full URL is:  https://www.bjjheroes.com/?p=4943
+The full URL is:  https://www.bjjheroes.com/?p=4912
+The full URL is:  https://www.bjjheroes.com/?p=7856
+The full URL is:  https://www.bjjheroes.com/?p=4687
+The full URL is:  https://www.bjjheroes.com/?p=4706
+The full URL is:  https://www.bjjheroes.com/?p=4717
+The full URL is:  https://www.bjjheroes.com/?p=4740
+The full URL is:  https://www.bjjheroes.com/?p=4776
+The full URL is:  https://www.bjjheroes.com/?p=4859
+The full URL is:  https://www.bjjheroes.com/?p=4864
+The full URL is:  https://www.bjjheroes.com/?p=4851
+The full URL is:  https://www.bjjheroes.com/?p=4877
+The full URL is:  https://www.bjjheroes.com/?p=4838
+The full URL is:  https://www.bjjheroes.com/?p=4794
+The full URL is:  https://www.bjjheroes.com/?p=4912
+The full URL is:  https://www.bjjheroes.com/?p=4943
+The full URL is:  https://www.bjjheroes.com/?p=4960
+The full URL is:  https://www.bjjheroes.com/?p=4993
+The full URL is:  https://www.bjjheroes.com/?p=5000
+The full URL is:  https://www.bjjheroes.com/?p=4996
+The full URL is:  https://www.bjjheroes.com/?p=5016
+The full URL is:  https://www.bjjheroes.com/?p=5020
+The full URL is:  https://www.bjjheroes.com/?p=5114
+The full URL is:  https://www.bjjheroes.com/?p=5135
+The full URL is:  https://www.bjjheroes.com/?p=5157
+The full URL is:  https://www.bjjheroes.com/?p=5162
+The full URL is:  https://www.bjjheroes.com/?p=5206
+The full URL is:  https://www.bjjheroes.com/?p=5223
+The full URL is:  https://www.bjjheroes.com/?p=5320
+The full URL is:  https://www.bjjheroes.com/?p=5324
+The full URL is:  https://www.bjjheroes.com/?p=5365
+The full URL is:  https://www.bjjheroes.com/?p=5391
+The full URL is:  https://www.bjjheroes.com/?p=5410
+The full URL is:  https://www.bjjheroes.com/?p=5417
+The full URL is:  https://www.bjjheroes.com/?p=12084
+The full URL is:  https://www.bjjheroes.com/?p=5414
+The full URL is:  https://www.bjjheroes.com/?p=5447
+The full URL is:  https://www.bjjheroes.com/?p=5453
+The full URL is:  https://www.bjjheroes.com/?p=5473
+The full URL is:  https://www.bjjheroes.com/?p=5509
+The full URL is:  https://www.bjjheroes.com/?p=5523
+The full URL is:  https://www.bjjheroes.com/?p=5636
+The full URL is:  https://www.bjjheroes.com/?p=5617
+The full URL is:  https://www.bjjheroes.com/?p=5609
+The full URL is:  https://www.bjjheroes.com/?p=5592
+The full URL is:  https://www.bjjheroes.com/?p=5578
+The full URL is:  https://www.bjjheroes.com/?p=5549
+The full URL is:  https://www.bjjheroes.com/?p=5751
+The full URL is:  https://www.bjjheroes.com/?p=5747
+The full URL is:  https://www.bjjheroes.com/?p=5715
+The full URL is:  https://www.bjjheroes.com/?p=5634
+The full URL is:  https://www.bjjheroes.com/?p=5756
+The full URL is:  https://www.bjjheroes.com/?p=5909
+The full URL is:  https://www.bjjheroes.com/?p=5926
+The full URL is:  https://www.bjjheroes.com/?p=5930
+The full URL is:  https://www.bjjheroes.com/?p=5861
+The full URL is:  https://www.bjjheroes.com/?p=5842
+The full URL is:  https://www.bjjheroes.com/?p=5789
+The full URL is:  https://www.bjjheroes.com/?p=5793
+The full URL is:  https://www.bjjheroes.com/?p=5785
+The full URL is:  https://www.bjjheroes.com/?p=5814
+The full URL is:  https://www.bjjheroes.com/?p=5820
+The full URL is:  https://www.bjjheroes.com/?p=5854
+The full URL is:  https://www.bjjheroes.com/?p=5858
+The full URL is:  https://www.bjjheroes.com/?p=5869
+The full URL is:  https://www.bjjheroes.com/?p=5873
+The full URL is:  https://www.bjjheroes.com/?p=5883
+The full URL is:  https://www.bjjheroes.com/?p=5900
+The full URL is:  https://www.bjjheroes.com/?p=5992
+The full URL is:  https://www.bjjheroes.com/?p=5998
+The full URL is:  https://www.bjjheroes.com/?p=6006
+The full URL is:  https://www.bjjheroes.com/?p=6002
+The full URL is:  https://www.bjjheroes.com/?p=6054
+The full URL is:  https://www.bjjheroes.com/?p=6033
+The full URL is:  https://www.bjjheroes.com/?p=6041
+The full URL is:  https://www.bjjheroes.com/?p=6046
+The full URL is:  https://www.bjjheroes.com/?p=6060
+The full URL is:  https://www.bjjheroes.com/?p=6064
+The full URL is:  https://www.bjjheroes.com/?p=6081
+The full URL is:  https://www.bjjheroes.com/?p=6084
+The full URL is:  https://www.bjjheroes.com/?p=6095
+The full URL is:  https://www.bjjheroes.com/?p=6103
+The full URL is:  https://www.bjjheroes.com/?p=6149
+The full URL is:  https://www.bjjheroes.com/?p=6151
+The full URL is:  https://www.bjjheroes.com/?p=6156
+The full URL is:  https://www.bjjheroes.com/?p=6158
+The full URL is:  https://www.bjjheroes.com/?p=6167
+The full URL is:  https://www.bjjheroes.com/?p=6170
+The full URL is:  https://www.bjjheroes.com/?p=6176
+The full URL is:  https://www.bjjheroes.com/?p=6186
+The full URL is:  https://www.bjjheroes.com/?p=6196
+The full URL is:  https://www.bjjheroes.com/?p=6203
+The full URL is:  https://www.bjjheroes.com/?p=6227
+The full URL is:  https://www.bjjheroes.com/?p=6236
+The full URL is:  https://www.bjjheroes.com/?p=6246
+The full URL is:  https://www.bjjheroes.com/?p=6253
+The full URL is:  https://www.bjjheroes.com/?p=6258
+The full URL is:  https://www.bjjheroes.com/?p=6276
+The full URL is:  https://www.bjjheroes.com/?p=6284
+The full URL is:  https://www.bjjheroes.com/?p=6286
+The full URL is:  https://www.bjjheroes.com/?p=6301
+The full URL is:  https://www.bjjheroes.com/?p=6311
+The full URL is:  https://www.bjjheroes.com/?p=6337
+The full URL is:  https://www.bjjheroes.com/?p=6328
+The full URL is:  https://www.bjjheroes.com/?p=6324
+The full URL is:  https://www.bjjheroes.com/?p=6419
+The full URL is:  https://www.bjjheroes.com/?p=6403
+The full URL is:  https://www.bjjheroes.com/?p=6395
+The full URL is:  https://www.bjjheroes.com/?p=6375
+The full URL is:  https://www.bjjheroes.com/?p=6366
+The full URL is:  https://www.bjjheroes.com/?p=11889
+The full URL is:  https://www.bjjheroes.com/?p=6368
+The full URL is:  https://www.bjjheroes.com/?p=6359
+The full URL is:  https://www.bjjheroes.com/?p=6354
+The full URL is:  https://www.bjjheroes.com/?p=6351
+The full URL is:  https://www.bjjheroes.com/?p=6348
+The full URL is:  https://www.bjjheroes.com/?p=6342
+The full URL is:  https://www.bjjheroes.com/?p=6432
+The full URL is:  https://www.bjjheroes.com/?p=6447
+The full URL is:  https://www.bjjheroes.com/?p=6454
+The full URL is:  https://www.bjjheroes.com/?p=6481
+The full URL is:  https://www.bjjheroes.com/?p=6483
+The full URL is:  https://www.bjjheroes.com/?p=6493
+The full URL is:  https://www.bjjheroes.com/?p=6507
+The full URL is:  https://www.bjjheroes.com/?p=6518
+The full URL is:  https://www.bjjheroes.com/?p=6525
+The full URL is:  https://www.bjjheroes.com/?p=6528
+The full URL is:  https://www.bjjheroes.com/?p=6535
+The full URL is:  https://www.bjjheroes.com/?p=6531
+The full URL is:  https://www.bjjheroes.com/?p=6503
+The full URL is:  https://www.bjjheroes.com/?p=6539
+The full URL is:  https://www.bjjheroes.com/?p=6545
+The full URL is:  https://www.bjjheroes.com/?p=6563
+The full URL is:  https://www.bjjheroes.com/?p=6592
+The full URL is:  https://www.bjjheroes.com/?p=6596
+The full URL is:  https://www.bjjheroes.com/?p=6618
+The full URL is:  https://www.bjjheroes.com/?p=6641
+The full URL is:  https://www.bjjheroes.com/?p=6674
+The full URL is:  https://www.bjjheroes.com/?p=6683
+The full URL is:  https://www.bjjheroes.com/?p=6686
+The full URL is:  https://www.bjjheroes.com/?p=6748
+The full URL is:  https://www.bjjheroes.com/?p=6756
+The full URL is:  https://www.bjjheroes.com/?p=6761
+The full URL is:  https://www.bjjheroes.com/?p=6765
+The full URL is:  https://www.bjjheroes.com/?p=6768
+The full URL is:  https://www.bjjheroes.com/?p=6801
+The full URL is:  https://www.bjjheroes.com/?p=6805
+The full URL is:  https://www.bjjheroes.com/?p=6825
+The full URL is:  https://www.bjjheroes.com/?p=6833
+The full URL is:  https://www.bjjheroes.com/?p=6829
+The full URL is:  https://www.bjjheroes.com/?p=6976
+The full URL is:  https://www.bjjheroes.com/?p=7000
+The full URL is:  https://www.bjjheroes.com/?p=7002
+The full URL is:  https://www.bjjheroes.com/?p=7009
+The full URL is:  https://www.bjjheroes.com/?p=7075
+The full URL is:  https://www.bjjheroes.com/?p=7077
+The full URL is:  https://www.bjjheroes.com/?p=7079
+The full URL is:  https://www.bjjheroes.com/?p=7103
+The full URL is:  https://www.bjjheroes.com/?p=7106
+The full URL is:  https://www.bjjheroes.com/?p=7111
+The full URL is:  https://www.bjjheroes.com/?p=7114
+The full URL is:  https://www.bjjheroes.com/?p=7123
+The full URL is:  https://www.bjjheroes.com/?p=7156
+The full URL is:  https://www.bjjheroes.com/?p=6792
+The full URL is:  https://www.bjjheroes.com/?p=7201
+The full URL is:  https://www.bjjheroes.com/?p=7171
+The full URL is:  https://www.bjjheroes.com/?p=7143
+The full URL is:  https://www.bjjheroes.com/?p=7140
+The full URL is:  https://www.bjjheroes.com/?p=7256
+The full URL is:  https://www.bjjheroes.com/?p=7247
+The full URL is:  https://www.bjjheroes.com/?p=7231
+The full URL is:  https://www.bjjheroes.com/?p=7224
+The full URL is:  https://www.bjjheroes.com/?p=7218
+The full URL is:  https://www.bjjheroes.com/?p=7282
+The full URL is:  https://www.bjjheroes.com/?p=7289
+The full URL is:  https://www.bjjheroes.com/?p=7329
+The full URL is:  https://www.bjjheroes.com/?p=7352
+The full URL is:  https://www.bjjheroes.com/?p=7376
+The full URL is:  https://www.bjjheroes.com/?p=7396
+The full URL is:  https://www.bjjheroes.com/?p=7473
+The full URL is:  https://www.bjjheroes.com/?p=7476
+The full URL is:  https://www.bjjheroes.com/?p=7502
+The full URL is:  https://www.bjjheroes.com/?p=7505
+The full URL is:  https://www.bjjheroes.com/?p=7512
+The full URL is:  https://www.bjjheroes.com/?p=7519
+The full URL is:  https://www.bjjheroes.com/?p=7556
+The full URL is:  https://www.bjjheroes.com/?p=7636
+Total number of players with stats are:  610
+{'Toe hold': 340, 'Straight ankle lock': 94, 'Points': 9465, 'Choke from back': 1502, 'Flying armbar': 24, 'Submission': 529, 'Referee Decision': 1453, 'Armbar': 1367, 'EBI/OT': 124, 'Kneebar': 358, 'Adv': 411, 'Calf slicer': 33, 'Footlock': 132, 'Reverse triangle': 48, 'Triangle armbar': 109, 'Triangle': 641, 'Inside heel hook': 231, 'Mounted choke': 1, 'Armlock': 59, 'Kimura': 179, 'Heel hook': 106, 'Straignt ankle lock': 1, 'DQ': 180, 'Violin armlock': 28, 'N/A': 729, 'Outside heel hook': 95, 'Estima lock': 58, 'RNC': 736, 'Katagatame': 144, 'Darce choke': 65, 'Mounted triangle': 19, 'Ezekiel': 74, 'Bow and arrow': 229, 'Choke': 436, 'Cross choke': 153, 'Brabo choke': 49, 'Triangle w/ arm': 1, 'Short choke': 64, 'Choke from mount': 14, 'Omoplata': 91, 'Anaconda choke': 18, 'Verbal tap': 38, '\n4\n1\n1\n1\n1\n': 5, '\n1\n\n\n1\n\n': 36, '\n2\n1\n1\n\n\n': 11, '\n4\n1\n1\n1\n\n': 2, 'Arm in Ezekiel': 99, 'Injury': 80, 'Von Fluke choke': 1, 'Shoulder pressure': 14, 'Triangle kimura': 2, 'Lapel choke': 17, 'Ezekiel choke': 2, 'Shoulder lock': 10, 'Pen': 36, 'Manoplata': 4, 'Wristlock': 96, 'Guillotine': 191, 'Dead orchard': 1, '50/50 armbar': 30, 'Botinha': 275, 'Canto choke': 9, 'Cachecol choke': 22, 'Toe Hold': 16, 'Dogbar': 6, 'Loop choke': 25, 'Bread cutter': 15, 'Terra footlock': 10, 'Mounted X choke': 73, 'Baseball choke': 27, 'Choke from Back': 5, 'Flying Armbar': 1, 'Bread slicer': 4, 'Crucifix choke': 45, 'Collar choke': 4, 'Choke from the Back': 3, 'Omoplata choke': 3, 'Mount pressure': 1, 'Clock choke': 35, 'Inverted armbar': 5, 'wristlock': 2, 'North south choke': 50, 'baseball choke': 1, 'No arm triangle': 12, 'Suloev stretch': 1, 'No arm Triangle': 1, 'Cross Choke': 4, 'Scissor choke': 10, 'Triangle-armbar': 3, 'Flying triangle': 24, 'kneebar': 3, 'Straigh ankle lock': 4, 'Heel Hook': 12, 'Arm in guillotine': 51, 'Americana': 34, 'No-gi ezekiel': 1, 'Leglock': 6, 'Dogbar/Kneebar': 1, 'Power guillotine': 1, 'Crucifix Choke': 2, 'Mir armlock': 1, 'Cross face': 7, 'Inverted triangle': 21, 'Inverted Katagatame': 1, '\n1\n\n\n\n1\n': 35, '\n2\n\n\n1\n1\n': 38, '\n0\n\n\n\n\n': 264, '\n3\n1\n\n1\n1\n': 11, '\n1\n1\n\n\n\n': 51, 'Bow and Arrow': 4, 'Choke f/ omoplata': 10, 'Inverted omoplata': 1, 'Amassa Pao choke': 2, 'Amassa pao choke': 4, 'Guillotina': 1, '\n2\n\n\n1\n\n': 5, 'verbal tap': 1, '\n2\n1\n\n\n1\n': 17, 'Russian armbar': 1, 'Baseball bat choke': 5, 'Tarikoplata': 2, 'Gogoplata': 11, 'Omoplata armlock': 1, 'Z Lock': 1, 'Straight Ankle Lock': 1, 'Guilotine': 1, 'Calf crusher': 3, 'Reverse omoplata': 3, 'Body choke': 1, '\n5\n1111\n\n\n\n': 1, '\n3\n11\n1\n\n\n': 6, '\n6\n11\n11\n1\n1\n': 1, '\n3\n1\n1\n\n1\n': 9, 'Triangle/armbar': 4, '\n4\n11\n1\n\n1\n': 3, '\n5\n11\n1\n1\n1\n': 3, '\n4\n11\n11\n\n\n': 1, 'Calf Slicer': 4, 'Reverse Triangle': 2, 'Toe hook': 13, '\n2\n11\n\n\n\n': 13, 'Omoplata/choke': 3, 'Banana split': 2, 'Terra Footlock': 1, 'Baratoplata': 5, 'Shoulder Pressure': 1, '\n1\n\n\n\n\n': 11, 'Bulldog choke': 1, 'Inside Heel hook': 1, 'Anaconda': 3, 'Triangulo': 1, '\n2\n\n\n11\n\n': 2, '\n3\n1\n1\n1\n\n': 4, 'Mounted guillotine': 2, 'Twister': 3, 'Lapel Choke': 1, 'Brabo Choke': 2, 'Standing Brabo Ck': 1, '\n4\n111\n\n\n\n': 1, '\n4\n1\n1\n\n1\n': 1, 'TKO': 1, 'Monted triangle': 1, 'Triangle Armbar': 3, 'Triange armbar': 1, '\n1\n\n1\n\n\n': 2, '\n5\n111\n\n\n\n': 1, '\n2\n1\n\n\n\n': 4, 'Straight armlock': 7, 'Arm in ezekiel': 3, 'Darce Choke': 1, 'Arm triangle': 2, 'Ankle lock': 9, 'Pena choke': 1, '\n3\n\n1\n1\n1\n': 1, '\n2\n\n1\n1\n\n': 4, '\n5\n111\n1\n\n1\n': 1, 'Choke f. omoplata': 1, 'Verbal': 1, '\n6\n111\n11\n1\n\n': 1, 'Japanese necktie': 9, 'Bread cutter choke': 2, '\n5\n111\n11\n\n\n': 2, '\n3\n\n11\n1\n\n': 1, 'Arm Triangle': 2, 'Monoplata': 7, 'Arm in Guillotine': 1, 'Kimura f/ triangle': 1, 'Triangle wristlock': 1, '\n2\n\n\n\n1\n': 3, 'Triangle/kimura': 1, '\n3\n1\n\n11\n\n': 1, '\n4\n11\n\n11\n\n': 1, 'North South choke': 6, 'Standing X choke': 1, 'Wormhat choke': 1, 'Buggy choke': 1, 'Wormbar': 1, '\n0\n \n\n\n\n': 2, 'Crucifix armbar': 3, 'Foot lock': 1, 'Foot Lock': 1, 'Peruvian necktie': 2, '10 finger guillotine': 1, 'Ezequiel': 1, 'Copacabana choke': 2, 'X choke': 1, '\n3\n111\n\n\n\n': 5, '\n4\n11\n\n1\n1\n': 2, '\n7\n11111\n1\n\n1\n': 1, 'Marceloplata': 1, '\n3\n11\n\n\n1\n': 2, 'Kneebar/Dogbar': 2, 'Omoplata/Choke': 1, 'Marcelotine': 1, '\n3\n1\n\n1\n\n': 2, 'Mata leao': 1, 'Brad cutter choke': 1, 'Face mask choke': 1, 'Straight anke lock': 1, 'Knee ride': 1, 'Knee on belly': 2, 'Pressure': 2, '\n3\n11\n\n\n\n': 1, '\n2\n1\n\n1\n\n': 5, '\n5\n11\n1\n1\n\n': 1, 'Flying Triangle': 1, 'Kimura-triangle': 1, 'Advantages': 1, 'Armlock f/ crucifix': 1, 'Neck crank': 1, '\n5\n1111\n1\n\n\n': 1, '7YO choke': 1, 'armbar': 1, 'Exhaustion': 1, '\n3\n1\n1\n\n\n': 1, 'Knee choke': 3, 'Inverted Triangle': 2, 'North-south choke': 1, 'One arm guillotine': 1, 'Clock Choke': 1, 'Choke from Mount': 1, 'Kimura/Triangle': 1, 'Bicep slicer': 2, 'Violin armbar': 1, 'Collar Choke': 1, 'Pressure / Injury': 1, 'Kimura/choke': 1, 'Body lock': 1, 'submission': 2, 'Kimura/triangle': 1, 'Basebal choke': 1, 'Triangle armlock': 1, 'calf slicer': 1, 'Boston crab': 1, '\n4\n111\n1\n\n\n': 1, '\n8\n111111\n\n1\n1\n': 1, 'Flying guillotine': 1, '\n2\n\n1\n\n1\n': 1, 'Kimura/armbar': 1, '\n4\n111\n\n\n1\n': 1, 'Sidecontrol Choke': 1, 'Berimbau choke': 2, '\n5\n111\n\n11\n\n': 1, 'Inside heel hool': 1, 'Omoplata/armlock': 1, 'Headlock': 2, 'Crucifix armlock': 1, 'Wristlock/Omoplata': 1, 'Katagame': 1, 'Wrislock': 1, 'North South Choke': 1, 'Carney lock': 1, 'Omoplata/RNC': 1, 'Necktie': 1, 'Knee on belly/choke': 1, 'Hashimoto choke': 1}
+Points 9465
+Choke from back 1502
+Referee Decision 1453
+Armbar 1367
+RNC 736
+N/A 729
+Triangle 641
+Submission 529
+Choke 436
+Adv 411
+Kneebar 358
+Toe hold 340
+Botinha 275
+
+0
+
+
+
+
+ 264
+Inside heel hook 231
+Bow and arrow 229
+Guillotine 191
+DQ 180
+Kimura 179
+Cross choke 153
+Katagatame 144
+Footlock 132
+EBI/OT 124
+Triangle armbar 109
+Heel hook 106
+Arm in Ezekiel 99
+Wristlock 96
+Outside heel hook 95
+Straight ankle lock 94
+Omoplata 91
+Injury 80
+Ezekiel 74
+Mounted X choke 73
+Darce choke 65
+Short choke 64
+Armlock 59
+Estima lock 58
+Arm in guillotine 51
+
+1
+1
+
+
+
+ 51
+North south choke 50
+Brabo choke 49
+Reverse triangle 48
+Crucifix choke 45
+Verbal tap 38
+
+2
+
+
+1
+1
+ 38
+Pen 36
+
+1
+
+
+1
+
+ 36
+Clock choke 35
+
+1
+
+
+
+1
+ 35
+Americana 34
+Calf slicer 33
+50/50 armbar 30
+Violin armlock 28
+Baseball choke 27
+Loop choke 25
+Flying triangle 24
+Flying armbar 24
+Cachecol choke 22
+Inverted triangle 21
+Mounted triangle 19
+Anaconda choke 18
+Lapel choke 17
+
+2
+1
+
+
+1
+ 17
+Toe Hold 16
+Bread cutter 15
+Shoulder pressure 14
+Choke from mount 14
+Toe hook 13
+
+2
+11
+
+
+
+ 13
+No arm triangle 12
+Heel Hook 12
+Gogoplata 11
+
+3
+1
+
+1
+1
+ 11
+
+2
+1
+1
+
+
+ 11
+
+1
+
+
+
+
+ 11
+Terra footlock 10
+Shoulder lock 10
+Scissor choke 10
+Choke f/ omoplata 10
+Japanese necktie 9
+Canto choke 9
+Ankle lock 9
+
+3
+1
+1
+
+1
+ 9
+Straight armlock 7
+Monoplata 7
+Cross face 7
+North South choke 6
+Leglock 6
+Dogbar 6
+
+3
+11
+1
+
+
+ 6
+Inverted armbar 5
+Choke from Back 5
+Baseball bat choke 5
+Baratoplata 5
+
+4
+1
+1
+1
+1
+ 5
+
+3
+111
+
+
+
+ 5
+
+2
+1
+
+1
+
+ 5
+
+2
+
+
+1
+
+ 5
+Triangle/armbar 4
+Straigh ankle lock 4
+Manoplata 4
+Cross Choke 4
+Collar choke 4
+Calf Slicer 4
+Bread slicer 4
+Bow and Arrow 4
+Amassa pao choke 4
+
+3
+1
+1
+1
+
+ 4
+
+2
+1
+
+
+
+ 4
+
+2
+
+1
+1
+
+ 4
+kneebar 3
+Twister 3
+Triangle-armbar 3
+Triangle Armbar 3
+Reverse omoplata 3
+Omoplata/choke 3
+Omoplata choke 3
+Knee choke 3
+Crucifix armbar 3
+Choke from the Back 3
+Calf crusher 3
+Arm in ezekiel 3
+Anaconda 3
+
+5
+11
+1
+1
+1
+ 3
+
+4
+11
+1
+
+1
+ 3
+
+2
+
+
+
+1
+ 3
+wristlock 2
+submission 2
+Triangle kimura 2
+Tarikoplata 2
+Reverse Triangle 2
+Pressure 2
+Peruvian necktie 2
+Mounted guillotine 2
+Kneebar/Dogbar 2
+Knee on belly 2
+Inverted Triangle 2
+Headlock 2
+Ezekiel choke 2
+Crucifix Choke 2
+Copacabana choke 2
+Bread cutter choke 2
+Brabo Choke 2
+Bicep slicer 2
+Berimbau choke 2
+Banana split 2
+Arm triangle 2
+Arm Triangle 2
+Amassa Pao choke 2
+
+5
+111
+11
+
+
+ 2
+
+4
+11
+
+1
+1
+ 2
+
+4
+1
+1
+1
+
+ 2
+
+3
+11
+
+
+1
+ 2
+
+3
+1
+
+1
+
+ 2
+
+2
+
+
+11
+
+ 2
+
+1
+
+1
+
+
+ 2
+
+0
+
+
+
+
+ 2
+verbal tap 1
+calf slicer 1
+baseball choke 1
+armbar 1
+Z Lock 1
+X choke 1
+Wristlock/Omoplata 1
+Wrislock 1
+Wormhat choke 1
+Wormbar 1
+Von Fluke choke 1
+Violin armbar 1
+Verbal 1
+Triangulo 1
+Triangle/kimura 1
+Triangle wristlock 1
+Triangle w/ arm 1
+Triangle armlock 1
+Triange armbar 1
+Terra Footlock 1
+TKO 1
+Suloev stretch 1
+Straignt ankle lock 1
+Straight anke lock 1
+Straight Ankle Lock 1
+Standing X choke 1
+Standing Brabo Ck 1
+Sidecontrol Choke 1
+Shoulder Pressure 1
+Russian armbar 1
+Pressure / Injury 1
+Power guillotine 1
+Pena choke 1
+One arm guillotine 1
+Omoplata/armlock 1
+Omoplata/RNC 1
+Omoplata/Choke 1
+Omoplata armlock 1
+North-south choke 1
+North South Choke 1
+No-gi ezekiel 1
+No arm Triangle 1
+Necktie 1
+Neck crank 1
+Mounted choke 1
+Mount pressure 1
+Monted triangle 1
+Mir armlock 1
+Mata leao 1
+Marcelotine 1
+Marceloplata 1
+Lapel Choke 1
+Knee ride 1
+Knee on belly/choke 1
+Kimura/triangle 1
+Kimura/choke 1
+Kimura/armbar 1
+Kimura/Triangle 1
+Kimura-triangle 1
+Kimura f/ triangle 1
+Katagame 1
+Inverted omoplata 1
+Inverted Katagatame 1
+Inside heel hool 1
+Inside Heel hook 1
+Hashimoto choke 1
+Guilotine 1
+Guillotina 1
+Foot lock 1
+Foot Lock 1
+Flying guillotine 1
+Flying Triangle 1
+Flying Armbar 1
+Face mask choke 1
+Ezequiel 1
+Exhaustion 1
+Dogbar/Kneebar 1
+Dead orchard 1
+Darce Choke 1
+Crucifix armlock 1
+Collar Choke 1
+Clock Choke 1
+Choke from Mount 1
+Choke f. omoplata 1
+Carney lock 1
+Bulldog choke 1
+Buggy choke 1
+Brad cutter choke 1
+Boston crab 1
+Body lock 1
+Body choke 1
+Basebal choke 1
+Armlock f/ crucifix 1
+Arm in Guillotine 1
+Advantages 1
+7YO choke 1
+10 finger guillotine 1
+
+8
+111111
+
+1
+1
+ 1
+
+7
+11111
+1
+
+1
+ 1
+
+6
+111
+11
+1
+
+ 1
+
+6
+11
+11
+1
+1
+ 1
+
+5
+1111
+1
+
+
+ 1
+
+5
+1111
+
+
+
+ 1
+
+5
+111
+1
+
+1
+ 1
+
+5
+111
+
+11
+
+ 1
+
+5
+111
+
+
+
+ 1
+
+5
+11
+1
+1
+
+ 1
+
+4
+111
+1
+
+
+ 1
+
+4
+111
+
+
+1
+ 1
+
+4
+111
+
+
+
+ 1
+
+4
+11
+11
+
+
+ 1
+
+4
+11
+
+11
+
+ 1
+
+4
+1
+1
+
+1
+ 1
+
+3
+11
+
+
+
+ 1
+
+3
+1
+1
+
+
+ 1
+
+3
+1
+
+11
+
+ 1
+
+3
+
+11
+1
+
+ 1
+
+3
+
+1
+1
+1
+ 1
+
+2
+
+1
+
+1
+ 1
+[Finished in 1708.459s]
