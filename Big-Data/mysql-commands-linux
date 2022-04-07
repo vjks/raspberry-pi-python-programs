@@ -1,0 +1,9 @@
+CREATE TABLE orders_no_pk (
+order_id int(11) NOT NULL,
+order_date datetime NOT NULL,
+order_customer_id int(11) NOT NULL,
+order_status varchar(45) NOT NULL
+);
+
+INSERT INTO orders_no_pk SELECT order_id, order_date,
+order_customer_id, order_status from orders;
