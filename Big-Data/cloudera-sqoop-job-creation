@@ -1,0 +1,38 @@
+sqoop job \
+--create job_orders \
+-- import \
+--connect jdbc:mysql://quickstart.cloudera:3306/retail_db \
+--username root \
+--password cloudera \
+--table orders \
+--warehouse-dir /data \
+--incremental append \
+--check-column order_id \
+--last-value 0
+
+
+/* Create a job which uses a password file */
+sqoop job \
+--create job_orders \
+-- import \
+--connect jdbc:mysql://quickstart.cloudera:3306/retail_db \
+--username root \
+--password-file file:///home/cloudera/.password-file \
+--table orders \
+--warehouse-dir /data \
+--incremental append \
+--check-column order_id \
+--last-value 0
+
+
+/* Pipe the contents of the metastore file to the grep command and look for the incremental keyword in it. */
+cat metastore.db.script | grep incremental
+
+
+/* Count the number of rows in the orders table */
+sqoop eval \
+-Dhadoop.security.credential.provider.path=jceks://hdfs/user/cloudera/mysql.password.jceks \
+--connect jdbc:mysql://quickstart.cloudera:3306/retail_db \
+--username root \
+--password-alias mysql.banking.password
+--query "select count(*) from orders"
