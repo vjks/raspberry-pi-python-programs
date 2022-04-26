@@ -1,0 +1,28 @@
+/* Show all the databases in hive */
+show databases;
+
+/* Create a database in Hive */
+create database databasename;
+
+/* Clear the screen in Hive */
+Ctrl + L
+
+/* Use a database in hive */
+use databasename;
+
+/* Create a table in hive */
+create table customers (
+id bigint,
+name string,
+address string
+);
+
+/* View the schema of a table named customers */
+describe customers;
+describe formatted customers;
+
+
+/* insrtting into a table in hive */
+insert into customers values (
+1111, "James", "NY"
+);
