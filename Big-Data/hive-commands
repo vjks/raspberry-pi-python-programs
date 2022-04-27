@@ -22,7 +22,37 @@ describe customers;
 describe formatted customers;
 
 
-/* insrtting into a table in hive */
+/* inserting into a table in hive */
 insert into customers values (
 1111, "James", "NY"
 );
+
+/* Creating a table in hive if it doesn't already exist */
+create table if not exists orders (
+id bigint,
+product_id string,
+customer_id bigint,
+quantity int,
+amount double
+);
+
+/* command to run a query without being connected to hive or beeline */
+beeline -u jdbc:hive2:// -e "select * from trendytech.customers"
+
+/* Writing a script with HQL */
+beeline -u jdbc:hive2:// -f /home/cloudera/myscript.hql
+
+/* Entering beeline from the linux terminal */
+ beeline -u jdbc:hive2://
+
+/* Running a script when you are already inside beeline */
+source <filename including address>
+
+/* searches for databases whose name starts with a certain character */
+show databases like 'tr*';
+
+/* Seeing the contents of a database in hive */
+dfs -ls /user/hive/warehouse/mydatabase.db;
+
+/* Seeing the contents of a table inside the database */
+dfs -ls /user/hive/warehouse/trendytech.db/test;
