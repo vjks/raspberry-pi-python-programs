@@ -56,3 +56,14 @@ dfs -ls /user/hive/warehouse/mydatabase.db;
 
 /* Seeing the contents of a table inside the database */
 dfs -ls /user/hive/warehouse/trendytech.db/test;
+
+
+/* Command to create a table in hive. The table is comma separated. */
+create table if not exists products_managed(
+id string,
+title string,
+cost float
+)
+row format delimited
+fields terminated by ','
+stored as textfile;
