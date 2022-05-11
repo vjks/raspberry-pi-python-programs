@@ -67,3 +67,6 @@ cost float
 row format delimited
 fields terminated by ','
 stored as textfile;
+
+/* Load data in hive from a local file system to a table using hive */
+load data local inpath '/home/cloudera/Desktop/shared/w4_hive_datasets/products.csv' into table products_managed;
