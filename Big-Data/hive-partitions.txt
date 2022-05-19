@@ -25,6 +25,7 @@ select id, state, customer_id, product_id from orders_w_partition where state = 
 /* Set dynamic properties to true */
 SET hive.exec.dynamic.partition=true;
 SET hive.exec.dynamic.partition.mode=nonstrict;
+SET hive.enforce.bucketing=true;
 
 
 /* Insert into an empty paritioned table from a non-partitioned table */
@@ -53,3 +54,7 @@ select id, name, cost, category;
 
 /* Get a sample of the data from a bucket in Hive */
 select * from products_w_buckets TABLESAMPLE(bucket 1 out of 4);
+
+
+/* See the partitions on a table */
+show partitions <table name>;

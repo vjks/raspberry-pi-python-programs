@@ -70,6 +70,3 @@ stored as textfile;
 
 /* Load data in hive from a local file system to a table using hive */
 load data local inpath '/home/cloudera/Desktop/shared/w4_hive_datasets/products.csv' into table products_managed;
-
-/* See the paritions on a table */
-show partitions <table name>;

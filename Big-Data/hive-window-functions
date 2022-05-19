@@ -1,0 +1,23 @@
+
+/*Create a table */
+create table groceries
+    (id string,
+    store string,
+    product string,
+    day date,
+    revenue double)
+    row format delimited fields terminated by ',';
+
+/* Load data from local harddrive into a table */
+load data local inpath '/home/cloudera/Desktop/shared/week5_datasets/groceries.csv' into
+table groceries;
+
+/* Hive windowing function example 1 */
+from groceries
+select id, revenue, day, sum(revenue) over (order by id
+rows between unbounded preceding and current row ) as running_total;
+
+/* Hive windowing function example 2 */
+from groceries
+select id, revenue, day, sum(revenue) over (order by day
+rows between unbounded preceding and current row ) as running_total;
