@@ -1,0 +1,8 @@
+/* Order by in ascending order */
+select order_value from order order by order_value;
+
+/* Sort by example */
+select order_value from order sort by order_value;
+
+/* Distribute by example to ensure each reducer gets a non overlapping set of values */
+select order_value from order distribute by order_value;
