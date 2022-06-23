@@ -1,0 +1,5 @@
+/* Set the vectorization variable to true in order to use vectorization */
+set hive.vectorized.execution.enabled = true;
+
+/* Set the hive engine to something other than the default mr value */
+set hive.execution.engine=spark;
