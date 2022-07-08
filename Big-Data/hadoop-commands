@@ -1,3 +1,0 @@
-hadoop fs -ls /user/cloudera // List the contents of a directory
-hadoop fs -cat /user/cloudera/<directoryname/* // Show the contents of all the files in a directory.
-hive // Command to go to hive
