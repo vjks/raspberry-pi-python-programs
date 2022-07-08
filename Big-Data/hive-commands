@@ -70,3 +70,7 @@ stored as textfile;
 
 /* Load data in hive from a local file system to a table using hive */
 load data local inpath '/home/cloudera/Desktop/shared/w4_hive_datasets/products.csv' into table products_managed;
+
+
+/* Load data into a table in Hive and overwrite existing data. */
+LOAD DATA LOCAL INPATH '/home/cloudera/Desktop/shared/filename.txt' OVERWRITE INTO TABLE tablename;
