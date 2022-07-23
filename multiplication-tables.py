@@ -1,6 +1,7 @@
 x = int( input("Enter a number:") )
 f = open("tables.txt", "a")
 for j in range( 2, x + 1 ):
+    f.write("Multiplication table of " + str(j) + '\n') 
     for i in range( 10 ):
         i = i + 1
         print( j, " * ", i, " = ", j * i)
