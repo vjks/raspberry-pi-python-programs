@@ -1,5 +1,5 @@
 
-import math
+import math #The math library is needed for calculating the square root and ceil functions
 
 num = float(input("Enter a number:"))
 sqrtOfNum = math.sqrt(num)
