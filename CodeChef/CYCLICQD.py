@@ -1,0 +1,9 @@
+tests = int(input())
+
+for _ in range(tests):
+    a, b, c, d = map(int, input().split())
+
+    if(a + c == 180 and b + d == 180):
+        print("YES")
+    else:
+        print("NO")
