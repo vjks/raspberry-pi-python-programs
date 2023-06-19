@@ -1,6 +1,3 @@
-import sys
-assert sys.version_info >= (3, 10)
-
 class Solution:
     def equivalent(self, symbol) -> int:
         value = 0
@@ -22,7 +19,6 @@ class Solution:
             case _:
                value += 0
         return value
-
     
     def romanToInt(self, s: str) -> int:
         sum = 0
@@ -41,3 +37,6 @@ class Solution:
                 sum += self.equivalent(s[i])
                 i += 1
         return sum
+
+s = Solution()
+s.romanToInt("MCMXCIV")
