@@ -1,4 +1,4 @@
-text_file = open("./election_strategy_signups.txt", encoding="utf8")
+text_file = open("./input.txt", encoding="utf8")
 #read whole file to a string
 data = text_file.read()
 #close file
